@@ -3,7 +3,7 @@
 ## 啟動閱讀器
 
 ```bash
-cd /mnt/volume_sgp1_01/projects/personal-knowledge-base
+cd /mnt/sms/MD
 npm start
 ```
 

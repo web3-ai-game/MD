@@ -11,7 +11,7 @@
 ## 推送到 GitHub
 
 ```bash
-cd /mnt/volume_sgp1_01/projects/MD
+cd /mnt/sms/MD
 
 # 添加遠程倉庫 (替換 YOUR_USERNAME)
 git remote add origin https://github.com/YOUR_USERNAME/MD.git
