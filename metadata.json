@@ -1,0 +1,6119 @@
+{
+  "stats": {
+    "total": 1303,
+    "processed": 1016,
+    "kept": 1016,
+    "removed": 287,
+    "duplicates": 0
+  },
+  "categories": {
+    "盜墓探險": [
+      {
+        "title": "盗墓家族_李成事.txt",
+        "filename": "盗墓家族_李成事.md",
+        "length": 459628,
+        "chapters": 138
+      },
+      {
+        "title": "大漠苍狼_南派三叔.txt",
+        "filename": "大漠苍狼_南派三叔.md",
+        "length": 322252,
+        "chapters": 0
+      },
+      {
+        "title": "鬼吹灯之云南虫谷_天下霸唱.txt",
+        "filename": "鬼吹灯之云南虫谷_天下霸唱.md",
+        "length": 250861,
+        "chapters": 56
+      },
+      {
+        "title": "盗墓笔记之4：云顶天宫.txt",
+        "filename": "盗墓笔记之4：云顶天宫.md",
+        "length": 207645,
+        "chapters": 61
+      },
+      {
+        "title": "雨夜谈鬼事(死亡循环1)_天下霸唱.txt",
+        "filename": "雨夜谈鬼事(死亡循环1)_天下霸唱.md",
+        "length": 59802,
+        "chapters": 1
+      },
+      {
+        "title": "沙海_南派三叔_TXT小说天堂.txt",
+        "filename": "沙海_南派三叔_TXT小说天堂.md",
+        "length": 87269,
+        "chapters": 16
+      },
+      {
+        "title": "凶宅猛鬼_天下霸唱.txt",
+        "filename": "凶宅猛鬼_天下霸唱.md",
+        "length": 50838,
+        "chapters": 15
+      },
+      {
+        "title": "盗墓迷津_文山樵人.txt",
+        "filename": "盗墓迷津_文山樵人.md",
+        "length": 375102,
+        "chapters": 8
+      },
+      {
+        "title": "下南洋_南派三叔.txt",
+        "filename": "下南洋_南派三叔.md",
+        "length": 40803,
+        "chapters": 57
+      },
+      {
+        "title": "鬼吹灯之精绝古城.txt",
+        "filename": "鬼吹灯之精绝古城.md",
+        "length": 210679,
+        "chapters": 33
+      },
+      {
+        "title": "佛医古墓_飞天.txt",
+        "filename": "佛医古墓_飞天.md",
+        "length": 96111,
+        "chapters": 16
+      },
+      {
+        "title": "盗墓笔记之5：谜海归巢_南派三叔_TXT小说天堂.txt",
+        "filename": "盗墓笔记之5：谜海归巢_南派三叔_TXT小说天堂.md",
+        "length": 61756,
+        "chapters": 21
+      },
+      {
+        "title": "下南洋_南派三叔_TXT小说天堂.txt",
+        "filename": "下南洋_南派三叔_TXT小说天堂.md",
+        "length": 38531,
+        "chapters": 56
+      },
+      {
+        "title": "黄河鬼棺3-千年古墓_南派三叔.txt",
+        "filename": "黄河鬼棺3-千年古墓_南派三叔.md",
+        "length": 87973,
+        "chapters": 9
+      },
+      {
+        "title": "贼猫_天下霸唱.txt",
+        "filename": "贼猫_天下霸唱.md",
+        "length": 77825,
+        "chapters": 1
+      },
+      {
+        "title": "门岭怪谈_天下霸唱.txt",
+        "filename": "门岭怪谈_天下霸唱.md",
+        "length": 82145,
+        "chapters": 10
+      },
+      {
+        "title": "黄河鬼棺1-镇河印_南派三叔_TXT小说天堂.txt",
+        "filename": "黄河鬼棺1-镇河印_南派三叔_TXT小说天堂.md",
+        "length": 57993,
+        "chapters": 16
+      },
+      {
+        "title": "黄河鬼棺2-尸变九龙坑_南派三叔.txt",
+        "filename": "黄河鬼棺2-尸变九龙坑_南派三叔.md",
+        "length": 88261,
+        "chapters": 9
+      },
+      {
+        "title": "鬼不语_天下霸唱_TXT小说天堂.txt",
+        "filename": "鬼不语_天下霸唱_TXT小说天堂.md",
+        "length": 79413,
+        "chapters": 38
+      },
+      {
+        "title": "盗墓笔记之2：怒海潜沙_.txt",
+        "filename": "盗墓笔记之2：怒海潜沙_.md",
+        "length": 91309,
+        "chapters": 38
+      },
+      {
+        "title": "鬼吹灯之昆仑神宫_天下霸唱_TXT小说天堂.txt",
+        "filename": "鬼吹灯之昆仑神宫_天下霸唱_TXT小说天堂.md",
+        "length": 235504,
+        "chapters": 45
+      },
+      {
+        "title": "黄河鬼棺2-尸变九龙坑_南派三叔_TXT小说天堂.txt",
+        "filename": "黄河鬼棺2-尸变九龙坑_南派三叔_TXT小说天堂.md",
+        "length": 88210,
+        "chapters": 10
+      },
+      {
+        "title": "谜踪之国_天下霸唱.txt",
+        "filename": "谜踪之国_天下霸唱.md",
+        "length": 80748,
+        "chapters": 36
+      },
+      {
+        "title": "鬼吹灯之云南虫谷.txt",
+        "filename": "鬼吹灯之云南虫谷.md",
+        "length": 88990,
+        "chapters": 23
+      },
+      {
+        "title": "鬼打墙_天下霸唱_TXT小说天堂.txt",
+        "filename": "鬼打墙_天下霸唱_TXT小说天堂.md",
+        "length": 89891,
+        "chapters": 13
+      },
+      {
+        "title": "盗墓笔记之1：七星鲁王宫_.txt",
+        "filename": "盗墓笔记之1：七星鲁王宫_.md",
+        "length": 56336,
+        "chapters": 20
+      },
+      {
+        "title": "藏海花_南派三叔_TXT小说天堂.txt",
+        "filename": "藏海花_南派三叔_TXT小说天堂.md",
+        "length": 94044,
+        "chapters": 38
+      },
+      {
+        "title": "黄河鬼棺1-镇河印_南派三叔.txt",
+        "filename": "黄河鬼棺1-镇河印_南派三叔.md",
+        "length": 253354,
+        "chapters": 23
+      },
+      {
+        "title": "盗墓笔记_南派三叔.txt",
+        "filename": "盗墓笔记_南派三叔.md",
+        "length": 742601,
+        "chapters": 265
+      },
+      {
+        "title": "盗墓高手_李枭.txt",
+        "filename": "盗墓高手_李枭.md",
+        "length": 172093,
+        "chapters": 52
+      },
+      {
+        "title": "活见鬼之雨夜妖谭_天下霸唱.txt",
+        "filename": "活见鬼之雨夜妖谭_天下霸唱.md",
+        "length": 86625,
+        "chapters": 13
+      },
+      {
+        "title": "黄河鬼棺4-魔王鬼窑(大结局)_南派三叔_TXT小说天堂.txt",
+        "filename": "黄河鬼棺4-魔王鬼窑(大结局)_南派三叔_TXT小说天堂.md",
+        "length": 85714,
+        "chapters": 9
+      },
+      {
+        "title": "盗墓笔记之5：谜海归巢_南派三叔.txt",
+        "filename": "盗墓笔记之5：谜海归巢_南派三叔.md",
+        "length": 12700,
+        "chapters": 5
+      },
+      {
+        "title": "黄河鬼棺2_南派三叔_TXT小说天堂.txt",
+        "filename": "黄河鬼棺2_南派三叔_TXT小说天堂.md",
+        "length": 88271,
+        "chapters": 8
+      },
+      {
+        "title": "盗墓笔记之2：怒海潜沙.txt",
+        "filename": "盗墓笔记之2：怒海潜沙.md",
+        "length": 91137,
+        "chapters": 37
+      },
+      {
+        "title": "迷航昆仑墟_天下霸唱_TXT小说天堂.txt",
+        "filename": "迷航昆仑墟_天下霸唱_TXT小说天堂.md",
+        "length": 79946,
+        "chapters": 0
+      },
+      {
+        "title": "盗墓笔记之4：云顶天宫_.txt",
+        "filename": "盗墓笔记之4：云顶天宫_.md",
+        "length": 207738,
+        "chapters": 61
+      },
+      {
+        "title": "大漠苍狼：绝密飞行_南派三叔_TXT小说天堂.txt",
+        "filename": "大漠苍狼：绝密飞行_南派三叔_TXT小说天堂.md",
+        "length": 82266,
+        "chapters": 38
+      },
+      {
+        "title": "鬼吹灯同人之六银棺_求道.txt",
+        "filename": "鬼吹灯同人之六银棺_求道.md",
+        "length": 89626,
+        "chapters": 9
+      },
+      {
+        "title": "鬼吹灯同人之过路阴阳_老头怕过年.txt",
+        "filename": "鬼吹灯同人之过路阴阳_老头怕过年.md",
+        "length": 338471,
+        "chapters": 103
+      },
+      {
+        "title": "盗墓笔记之1：七星鲁王宫.txt",
+        "filename": "盗墓笔记之1：七星鲁王宫.md",
+        "length": 76286,
+        "chapters": 19
+      },
+      {
+        "title": "谜踪之国_天下霸唱_TXT小说天堂.txt",
+        "filename": "谜踪之国_天下霸唱_TXT小说天堂.md",
+        "length": 757727,
+        "chapters": 0
+      },
+      {
+        "title": "怒江之战_南派三叔.txt",
+        "filename": "怒江之战_南派三叔.md",
+        "length": 302958,
+        "chapters": 114
+      },
+      {
+        "title": "黄河鬼棺3-千年古墓_南派三叔_TXT小说天堂.txt",
+        "filename": "黄河鬼棺3-千年古墓_南派三叔_TXT小说天堂.md",
+        "length": 54626,
+        "chapters": 6
+      },
+      {
+        "title": "黄河鬼棺_南派三叔.txt",
+        "filename": "黄河鬼棺_南派三叔.md",
+        "length": 426704,
+        "chapters": 60
+      },
+      {
+        "title": "贼猫_天下霸唱_TXT小说天堂.txt",
+        "filename": "贼猫_天下霸唱_TXT小说天堂.md",
+        "length": 77739,
+        "chapters": 0
+      },
+      {
+        "title": "鬼吹灯_天下霸唱.txt",
+        "filename": "鬼吹灯_天下霸唱.md",
+        "length": 85544,
+        "chapters": 22
+      },
+      {
+        "title": "盗墓笔记之3：秦岭神树_.txt",
+        "filename": "盗墓笔记之3：秦岭神树_.md",
+        "length": 150185,
+        "chapters": 40
+      },
+      {
+        "title": "鬼吹灯之昆仑神宫.txt",
+        "filename": "鬼吹灯之昆仑神宫.md",
+        "length": 42901,
+        "chapters": 14
+      },
+      {
+        "title": "盗墓笔记之7：阴山古楼_南派三叔.txt",
+        "filename": "盗墓笔记之7：阴山古楼_南派三叔.md",
+        "length": 155460,
+        "chapters": 67
+      },
+      {
+        "title": "鬼吹灯前传2契丹神墓_糖衣古典.txt",
+        "filename": "鬼吹灯前传2契丹神墓_糖衣古典.md",
+        "length": 82122,
+        "chapters": 26
+      },
+      {
+        "title": "鬼吹灯之昆仑神宫_天下霸唱.txt",
+        "filename": "鬼吹灯之昆仑神宫_天下霸唱.md",
+        "length": 25905,
+        "chapters": 41
+      },
+      {
+        "title": "盗墓笔记_南派三叔_TXT小说天堂.txt",
+        "filename": "盗墓笔记_南派三叔_TXT小说天堂.md",
+        "length": 693465,
+        "chapters": 185
+      },
+      {
+        "title": "盗墓笔记之7：阴山古楼_南派三叔_TXT小说天堂.txt",
+        "filename": "盗墓笔记之7：阴山古楼_南派三叔_TXT小说天堂.md",
+        "length": 155468,
+        "chapters": 67
+      },
+      {
+        "title": "沙海_南派三叔.txt",
+        "filename": "沙海_南派三叔.md",
+        "length": 93962,
+        "chapters": 28
+      },
+      {
+        "title": "鬼吹灯之圣泉寻踪_天下霸唱_TXT小说天堂.txt",
+        "filename": "鬼吹灯之圣泉寻踪_天下霸唱_TXT小说天堂.md",
+        "length": 86851,
+        "chapters": 17
+      },
+      {
+        "title": "鬼打墙_天下霸唱.txt",
+        "filename": "鬼打墙_天下霸唱.md",
+        "length": 85949,
+        "chapters": 30
+      },
+      {
+        "title": "盗墓笔记之6：蛇沼鬼城_.txt",
+        "filename": "盗墓笔记之6：蛇沼鬼城_.md",
+        "length": 308558,
+        "chapters": 117
+      },
+      {
+        "title": "鬼吹灯_天下霸唱_TXT小说天堂.txt",
+        "filename": "鬼吹灯_天下霸唱_TXT小说天堂.md",
+        "length": 691860,
+        "chapters": 179
+      },
+      {
+        "title": "凶宅猛鬼_天下霸唱_TXT小说天堂.txt",
+        "filename": "凶宅猛鬼_天下霸唱_TXT小说天堂.md",
+        "length": 70495,
+        "chapters": 19
+      },
+      {
+        "title": "盗墓笔记之8：邛笼石影_南派三叔_TXT小说天堂.txt",
+        "filename": "盗墓笔记之8：邛笼石影_南派三叔_TXT小说天堂.md",
+        "length": 89466,
+        "chapters": 45
+      },
+      {
+        "title": "门岭怪谈_天下霸唱_TXT小说天堂.txt",
+        "filename": "门岭怪谈_天下霸唱_TXT小说天堂.md",
+        "length": 128731,
+        "chapters": 5
+      },
+      {
+        "title": "鬼吹灯2_天下霸唱_TXT小说天堂.txt",
+        "filename": "鬼吹灯2_天下霸唱_TXT小说天堂.md",
+        "length": 568969,
+        "chapters": 147
+      },
+      {
+        "title": "鬼吹灯前传3始皇金棺_糖衣古典.txt",
+        "filename": "鬼吹灯前传3始皇金棺_糖衣古典.md",
+        "length": 179695,
+        "chapters": 58
+      },
+      {
+        "title": "盗墓笔记之3：秦岭神树.txt",
+        "filename": "盗墓笔记之3：秦岭神树.md",
+        "length": 89738,
+        "chapters": 25
+      },
+      {
+        "title": "鬼吹灯之龙岭迷窟.txt",
+        "filename": "鬼吹灯之龙岭迷窟.md",
+        "length": 85828,
+        "chapters": 18
+      },
+      {
+        "title": "鬼吹灯2_天下霸唱.txt",
+        "filename": "鬼吹灯2_天下霸唱.md",
+        "length": 88894,
+        "chapters": 41
+      },
+      {
+        "title": "藏海花_南派三叔.txt",
+        "filename": "藏海花_南派三叔.md",
+        "length": 95605,
+        "chapters": 38
+      },
+      {
+        "title": "雨夜谈鬼事(死亡循环1)_天下霸唱_TXT小说天堂.txt",
+        "filename": "雨夜谈鬼事(死亡循环1)_天下霸唱_TXT小说天堂.md",
+        "length": 67771,
+        "chapters": 42
+      },
+      {
+        "title": "大漠苍狼：绝密飞行_南派三叔.txt",
+        "filename": "大漠苍狼：绝密飞行_南派三叔.md",
+        "length": 14223,
+        "chapters": 7
+      },
+      {
+        "title": "鬼吹灯之龙岭迷窟_天下霸唱_TXT小说天堂.txt",
+        "filename": "鬼吹灯之龙岭迷窟_天下霸唱_TXT小说天堂.md",
+        "length": 86137,
+        "chapters": 17
+      },
+      {
+        "title": "鬼吹灯前传：金棺陵兽_天下霸唱_TXT小说天堂.txt",
+        "filename": "鬼吹灯前传：金棺陵兽_天下霸唱_TXT小说天堂.md",
+        "length": 67762,
+        "chapters": 73
+      },
+      {
+        "title": "鬼吹灯之龙岭迷窟_天下霸唱.txt",
+        "filename": "鬼吹灯之龙岭迷窟_天下霸唱.md",
+        "length": 120733,
+        "chapters": 3
+      },
+      {
+        "title": "鬼吹灯前传1魁星踢斗之夜帝王陵_糖衣古典.txt",
+        "filename": "鬼吹灯前传1魁星踢斗之夜帝王陵_糖衣古典.md",
+        "length": 167940,
+        "chapters": 52
+      },
+      {
+        "title": "怒江之战_南派三叔_TXT小说天堂.txt",
+        "filename": "怒江之战_南派三叔_TXT小说天堂.md",
+        "length": 67300,
+        "chapters": 41
+      },
+      {
+        "title": "鬼不语_天下霸唱.txt",
+        "filename": "鬼不语_天下霸唱.md",
+        "length": 80692,
+        "chapters": 65
+      },
+      {
+        "title": "鬼吹灯之圣泉寻踪_天下霸唱.txt",
+        "filename": "鬼吹灯之圣泉寻踪_天下霸唱.md",
+        "length": 215619,
+        "chapters": 32
+      },
+      {
+        "title": "湘西盗墓王_戚小双.txt",
+        "filename": "湘西盗墓王_戚小双.md",
+        "length": 82256,
+        "chapters": 9
+      },
+      {
+        "title": "大漠苍狼_南派三叔_TXT小说天堂.txt",
+        "filename": "大漠苍狼_南派三叔_TXT小说天堂.md",
+        "length": 322260,
+        "chapters": 0
+      },
+      {
+        "title": "盗墓笔记之8：邛笼石影_南派三叔.txt",
+        "filename": "盗墓笔记之8：邛笼石影_南派三叔.md",
+        "length": 90523,
+        "chapters": 48
+      },
+      {
+        "title": "迷航昆仑墟_天下霸唱.txt",
+        "filename": "迷航昆仑墟_天下霸唱.md",
+        "length": 66540,
+        "chapters": 0
+      },
+      {
+        "title": "鬼吹灯之云南虫谷_天下霸唱_TXT小说天堂.txt",
+        "filename": "鬼吹灯之云南虫谷_天下霸唱_TXT小说天堂.md",
+        "length": 250869,
+        "chapters": 56
+      },
+      {
+        "title": "黄河鬼棺4-魔王鬼窑(大结局)_南派三叔.txt",
+        "filename": "黄河鬼棺4-魔王鬼窑(大结局)_南派三叔.md",
+        "length": 232290,
+        "chapters": 4
+      },
+      {
+        "title": "活见鬼之雨夜妖谭_天下霸唱_TXT小说天堂.txt",
+        "filename": "活见鬼之雨夜妖谭_天下霸唱_TXT小说天堂.md",
+        "length": 86665,
+        "chapters": 11
+      },
+      {
+        "title": "鬼吹灯前传：金棺陵兽_天下霸唱.txt",
+        "filename": "鬼吹灯前传：金棺陵兽_天下霸唱.md",
+        "length": 77120,
+        "chapters": 21
+      },
+      {
+        "title": "盗墓笔记之6：蛇沼鬼城.txt",
+        "filename": "盗墓笔记之6：蛇沼鬼城.md",
+        "length": 308465,
+        "chapters": 117
+      },
+      {
+        "title": "黄河鬼棺1_南派三叔_TXT小说天堂.txt",
+        "filename": "黄河鬼棺1_南派三叔_TXT小说天堂.md",
+        "length": 88918,
+        "chapters": 20
+      },
+      {
+        "title": "黄河鬼棺_南派三叔_TXT小说天堂.txt",
+        "filename": "黄河鬼棺_南派三叔_TXT小说天堂.md",
+        "length": 426712,
+        "chapters": 60
+      },
+      {
+        "title": "鬼吹灯前传4楼兰魔域_糖衣古典.txt",
+        "filename": "鬼吹灯前传4楼兰魔域_糖衣古典.md",
+        "length": 103248,
+        "chapters": 26
+      }
+    ],
+    "推理懸疑": [
+      {
+        "title": "无人生还_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "无人生还_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 89825,
+        "chapters": 16
+      },
+      {
+        "title": "波洛圣诞探案记_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "波洛圣诞探案记_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 94275,
+        "chapters": 31
+      },
+      {
+        "title": "牙医谋杀案_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "牙医谋杀案_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 94051,
+        "chapters": 5
+      },
+      {
+        "title": "国际学舍谋杀案_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "国际学舍谋杀案_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 70664,
+        "chapters": 23
+      },
+      {
+        "title": "死亡终局_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "死亡终局_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 93487,
+        "chapters": 20
+      },
+      {
+        "title": "神秘的奎恩先生_阿加莎·克里斯蒂.txt",
+        "filename": "神秘的奎恩先生_阿加莎·克里斯蒂.md",
+        "length": 122199,
+        "chapters": 8
+      },
+      {
+        "title": "东方快车上的谋杀案_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "东方快车上的谋杀案_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 92556,
+        "chapters": 25
+      },
+      {
+        "title": "罗杰疑案_阿加莎·克里斯蒂.txt",
+        "filename": "罗杰疑案_阿加莎·克里斯蒂.md",
+        "length": 92923,
+        "chapters": 20
+      },
+      {
+        "title": "复仇的女神_阿加莎·克里斯蒂.txt",
+        "filename": "复仇的女神_阿加莎·克里斯蒂.md",
+        "length": 92153,
+        "chapters": 18
+      },
+      {
+        "title": "零时_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "零时_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 92234,
+        "chapters": 23
+      },
+      {
+        "title": "命运之门_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "命运之门_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 92981,
+        "chapters": 24
+      },
+      {
+        "title": "假戏成真_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "假戏成真_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 94844,
+        "chapters": 31
+      },
+      {
+        "title": "万圣节前夜的谋杀案_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "万圣节前夜的谋杀案_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 44473,
+        "chapters": 9
+      },
+      {
+        "title": "藏书房女尸之谜_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "藏书房女尸之谜_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 91092,
+        "chapters": 17
+      },
+      {
+        "title": "杀人不难_阿加莎·克里斯蒂.txt",
+        "filename": "杀人不难_阿加莎·克里斯蒂.md",
+        "length": 92722,
+        "chapters": 18
+      },
+      {
+        "title": "涨潮时节_阿加莎·克里斯蒂.txt",
+        "filename": "涨潮时节_阿加莎·克里斯蒂.md",
+        "length": 92570,
+        "chapters": 27
+      },
+      {
+        "title": "哑证人_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "哑证人_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 90479,
+        "chapters": 0
+      },
+      {
+        "title": "暗藏杀机_阿加莎·克里斯蒂.txt",
+        "filename": "暗藏杀机_阿加莎·克里斯蒂.md",
+        "length": 39330,
+        "chapters": 9
+      },
+      {
+        "title": "此夜绵绵_阿加莎·克里斯蒂.txt",
+        "filename": "此夜绵绵_阿加莎·克里斯蒂.md",
+        "length": 78831,
+        "chapters": 16
+      },
+      {
+        "title": "艳阳下的谋杀案_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "艳阳下的谋杀案_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 92864,
+        "chapters": 0
+      },
+      {
+        "title": "大侦探十二奇案_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "大侦探十二奇案_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 90637,
+        "chapters": 55
+      },
+      {
+        "title": "死亡之犬_阿加莎·克里斯蒂.txt",
+        "filename": "死亡之犬_阿加莎·克里斯蒂.md",
+        "length": 95954,
+        "chapters": 14
+      },
+      {
+        "title": "死亡草_阿加莎·克里斯蒂.txt",
+        "filename": "死亡草_阿加莎·克里斯蒂.md",
+        "length": 91370,
+        "chapters": 11
+      },
+      {
+        "title": "他们来到巴格达_阿加莎·克里斯蒂.txt",
+        "filename": "他们来到巴格达_阿加莎·克里斯蒂.md",
+        "length": 92750,
+        "chapters": 16
+      },
+      {
+        "title": "波洛圣诞探案记_阿加莎·克里斯蒂.txt",
+        "filename": "波洛圣诞探案记_阿加莎·克里斯蒂.md",
+        "length": 94237,
+        "chapters": 29
+      },
+      {
+        "title": "伯特伦旅馆之谜_阿加莎·克里斯蒂.txt",
+        "filename": "伯特伦旅馆之谜_阿加莎·克里斯蒂.md",
+        "length": 93727,
+        "chapters": 19
+      },
+      {
+        "title": "藏书室女尸之谜_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "藏书室女尸之谜_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 98170,
+        "chapters": 47
+      },
+      {
+        "title": "神秘的西塔福特_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "神秘的西塔福特_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 89941,
+        "chapters": 28
+      },
+      {
+        "title": "首相绑架案_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "首相绑架案_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 93447,
+        "chapters": 0
+      },
+      {
+        "title": "钟_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "钟_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 93190,
+        "chapters": 15
+      },
+      {
+        "title": "啤酒谋杀案_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "啤酒谋杀案_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 116042,
+        "chapters": 18
+      },
+      {
+        "title": "空幻之屋_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "空幻之屋_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 93682,
+        "chapters": 20
+      },
+      {
+        "title": "复仇的女神_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "复仇的女神_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 91965,
+        "chapters": 20
+      },
+      {
+        "title": "孤岛奇案_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "孤岛奇案_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 89226,
+        "chapters": 14
+      },
+      {
+        "title": "大侦探小卡莱新冒险记_阿·林格伦.txt",
+        "filename": "大侦探小卡莱新冒险记_阿·林格伦.md",
+        "length": 85767,
+        "chapters": 10
+      },
+      {
+        "title": "尼罗河谋杀案_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "尼罗河谋杀案_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 90015,
+        "chapters": 30
+      },
+      {
+        "title": "牙医谋杀案_阿加莎·克里斯蒂.txt",
+        "filename": "牙医谋杀案_阿加莎·克里斯蒂.md",
+        "length": 93536,
+        "chapters": 10
+      },
+      {
+        "title": "清洁女工之死_阿加莎·克里斯蒂.txt",
+        "filename": "清洁女工之死_阿加莎·克里斯蒂.md",
+        "length": 180057,
+        "chapters": 10
+      },
+      {
+        "title": "加勒比海岛谋杀案_阿加莎·克里斯蒂.txt",
+        "filename": "加勒比海岛谋杀案_阿加莎·克里斯蒂.md",
+        "length": 90982,
+        "chapters": 0
+      },
+      {
+        "title": "暗藏杀机_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "暗藏杀机_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 36171,
+        "chapters": 9
+      },
+      {
+        "title": "褐衣男子_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "褐衣男子_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 81698,
+        "chapters": 25
+      },
+      {
+        "title": "谍海_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "谍海_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 74022,
+        "chapters": 23
+      },
+      {
+        "title": "人性的记录_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "人性的记录_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 93275,
+        "chapters": 22
+      },
+      {
+        "title": "犯罪团伙_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "犯罪团伙_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 90660,
+        "chapters": 11
+      },
+      {
+        "title": "惊险的浪漫_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "惊险的浪漫_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 92530,
+        "chapters": 0
+      },
+      {
+        "title": "尼罗河谋杀案_阿加莎·克里斯蒂.txt",
+        "filename": "尼罗河谋杀案_阿加莎·克里斯蒂.md",
+        "length": 90409,
+        "chapters": 30
+      },
+      {
+        "title": "谋杀现场3.txt",
+        "filename": "谋杀现场3.md",
+        "length": 128171,
+        "chapters": 0
+      },
+      {
+        "title": "落幕－白罗最後探案_阿加莎·克里斯蒂.txt",
+        "filename": "落幕－白罗最後探案_阿加莎·克里斯蒂.md",
+        "length": 582914,
+        "chapters": 9
+      },
+      {
+        "title": "三幕悲剧_阿加莎·克里斯蒂.txt",
+        "filename": "三幕悲剧_阿加莎·克里斯蒂.md",
+        "length": 91758,
+        "chapters": 20
+      },
+      {
+        "title": "大侦探仧上人_章了.txt",
+        "filename": "大侦探仧上人_章了.md",
+        "length": 86492,
+        "chapters": 4
+      },
+      {
+        "title": "神秘的西塔福特_阿加莎·克里斯蒂.txt",
+        "filename": "神秘的西塔福特_阿加莎·克里斯蒂.md",
+        "length": 62819,
+        "chapters": 19
+      },
+      {
+        "title": "推理银版1204.PDF",
+        "filename": "推理银版1204.md",
+        "length": 89045,
+        "chapters": 4
+      },
+      {
+        "title": "谋杀启事_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "谋杀启事_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 89127,
+        "chapters": 24
+      },
+      {
+        "title": "美索不达米亚谋杀案_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "美索不达米亚谋杀案_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 141579,
+        "chapters": 0
+      },
+      {
+        "title": "高尔夫球场的疑云_阿加莎·克里斯蒂.txt",
+        "filename": "高尔夫球场的疑云_阿加莎·克里斯蒂.md",
+        "length": 91688,
+        "chapters": 28
+      },
+      {
+        "title": "死亡约会_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "死亡约会_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 92568,
+        "chapters": 0
+      },
+      {
+        "title": "马普尔小姐探案_阿加莎·克里斯蒂.txt",
+        "filename": "马普尔小姐探案_阿加莎·克里斯蒂.md",
+        "length": 72083,
+        "chapters": 0
+      },
+      {
+        "title": "斯泰尔斯庄园奇案_阿加莎·克里斯蒂.txt",
+        "filename": "斯泰尔斯庄园奇案_阿加莎·克里斯蒂.md",
+        "length": 93203,
+        "chapters": 13
+      },
+      {
+        "title": "褐衣男子_阿加莎·克里斯蒂.txt",
+        "filename": "褐衣男子_阿加莎·克里斯蒂.md",
+        "length": 93067,
+        "chapters": 29
+      },
+      {
+        "title": "罗杰·艾克罗伊德谋杀案_阿加莎·克里斯蒂.txt",
+        "filename": "罗杰·艾克罗伊德谋杀案_阿加莎·克里斯蒂.md",
+        "length": 92951,
+        "chapters": 16
+      },
+      {
+        "title": "悬崖山庄奇案_阿加莎·克里斯蒂.txt",
+        "filename": "悬崖山庄奇案_阿加莎·克里斯蒂.md",
+        "length": 89383,
+        "chapters": 18
+      },
+      {
+        "title": "庄园迷案_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "庄园迷案_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 92504,
+        "chapters": 21
+      },
+      {
+        "title": "死亡之犬_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "死亡之犬_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 95669,
+        "chapters": 13
+      },
+      {
+        "title": "拇指一竖_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "拇指一竖_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 94003,
+        "chapters": 8
+      },
+      {
+        "title": "推理银版1202.PDF",
+        "filename": "推理银版1202.md",
+        "length": 8113,
+        "chapters": 52
+      },
+      {
+        "title": "葬礼之后_阿加莎·克里斯蒂.txt",
+        "filename": "葬礼之后_阿加莎·克里斯蒂.md",
+        "length": 93851,
+        "chapters": 10
+      },
+      {
+        "title": "寓所迷案_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "寓所迷案_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 116374,
+        "chapters": 21
+      },
+      {
+        "title": "白马酒店_阿加莎·克里斯蒂.txt",
+        "filename": "白马酒店_阿加莎·克里斯蒂.md",
+        "length": 94654,
+        "chapters": 2
+      },
+      {
+        "title": "钟_阿加莎·克里斯蒂.txt",
+        "filename": "钟_阿加莎·克里斯蒂.md",
+        "length": 99643,
+        "chapters": 16
+      },
+      {
+        "title": "天涯过客_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "天涯过客_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 93746,
+        "chapters": 0
+      },
+      {
+        "title": "寓所迷案_阿加莎·克里斯蒂.txt",
+        "filename": "寓所迷案_阿加莎·克里斯蒂.md",
+        "length": 91965,
+        "chapters": 23
+      },
+      {
+        "title": "死亡终局_阿加莎·克里斯蒂.txt",
+        "filename": "死亡终局_阿加莎·克里斯蒂.md",
+        "length": 93760,
+        "chapters": 10
+      },
+      {
+        "title": "第三个女郎_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "第三个女郎_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 91023,
+        "chapters": 17
+      },
+      {
+        "title": "万灵节之死_阿加莎·克里斯蒂.txt",
+        "filename": "万灵节之死_阿加莎·克里斯蒂.md",
+        "length": 91605,
+        "chapters": 20
+      },
+      {
+        "title": "犯罪团伙短篇集_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "犯罪团伙短篇集_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 90317,
+        "chapters": 11
+      },
+      {
+        "title": "高尔夫球场的疑云_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "高尔夫球场的疑云_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 90697,
+        "chapters": 20
+      },
+      {
+        "title": "无人生还_阿加莎·克里斯蒂.txt",
+        "filename": "无人生还_阿加莎·克里斯蒂.md",
+        "length": 9277,
+        "chapters": 3
+      },
+      {
+        "title": "四大魔头_阿加莎·克里斯蒂.txt",
+        "filename": "四大魔头_阿加莎·克里斯蒂.md",
+        "length": 93232,
+        "chapters": 17
+      },
+      {
+        "title": "哑证人_阿加莎·克里斯蒂.txt",
+        "filename": "哑证人_阿加莎·克里斯蒂.md",
+        "length": 93034,
+        "chapters": 0
+      },
+      {
+        "title": "啤酒谋杀案_阿加莎·克里斯蒂.txt",
+        "filename": "啤酒谋杀案_阿加莎·克里斯蒂.md",
+        "length": 109063,
+        "chapters": 22
+      },
+      {
+        "title": "藏书房女尸之谜_阿加莎·克里斯蒂.txt",
+        "filename": "藏书房女尸之谜_阿加莎·克里斯蒂.md",
+        "length": 93202,
+        "chapters": 65
+      },
+      {
+        "title": "美索不达米亚谋杀案_阿加莎·克里斯蒂.txt",
+        "filename": "美索不达米亚谋杀案_阿加莎·克里斯蒂.md",
+        "length": 77571,
+        "chapters": 18
+      },
+      {
+        "title": "零时_阿加莎·克里斯蒂.txt",
+        "filename": "零时_阿加莎·克里斯蒂.md",
+        "length": 92294,
+        "chapters": 4
+      },
+      {
+        "title": "云中奇案_阿加莎·克里斯蒂.txt",
+        "filename": "云中奇案_阿加莎·克里斯蒂.md",
+        "length": 54812,
+        "chapters": 0
+      },
+      {
+        "title": "大西洋案件_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "大西洋案件_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 74141,
+        "chapters": 17
+      },
+      {
+        "title": "烟囱大厦的秘密_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "烟囱大厦的秘密_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 92605,
+        "chapters": 24
+      },
+      {
+        "title": "他们来到巴格达_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "他们来到巴格达_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 92840,
+        "chapters": 19
+      },
+      {
+        "title": "目的地不明_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "目的地不明_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 94198,
+        "chapters": 18
+      },
+      {
+        "title": "蒙面女人_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "蒙面女人_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 93340,
+        "chapters": 0
+      },
+      {
+        "title": "雪地上的女尸_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "雪地上的女尸_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 92944,
+        "chapters": 13
+      },
+      {
+        "title": "马普尔小姐探案_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "马普尔小姐探案_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 92703,
+        "chapters": 0
+      },
+      {
+        "title": "谋杀启事_阿加莎·克里斯蒂.txt",
+        "filename": "谋杀启事_阿加莎·克里斯蒂.md",
+        "length": 97695,
+        "chapters": 4
+      },
+      {
+        "title": "三幕悲剧_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "三幕悲剧_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 92522,
+        "chapters": 24
+      },
+      {
+        "title": "目的地不明_阿加莎·克里斯蒂.txt",
+        "filename": "目的地不明_阿加莎·克里斯蒂.md",
+        "length": 93630,
+        "chapters": 16
+      },
+      {
+        "title": "涨潮时节_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "涨潮时节_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 92229,
+        "chapters": 29
+      },
+      {
+        "title": "蓝色特快上的秘密_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "蓝色特快上的秘密_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 113294,
+        "chapters": 36
+      },
+      {
+        "title": "ABC谋杀案_阿加莎·克里斯蒂.txt",
+        "filename": "ABC谋杀案_阿加莎·克里斯蒂.md",
+        "length": 85818,
+        "chapters": 34
+      },
+      {
+        "title": "东方快车上的谋杀案_阿加莎·克里斯蒂.txt",
+        "filename": "东方快车上的谋杀案_阿加莎·克里斯蒂.md",
+        "length": 91916,
+        "chapters": 27
+      },
+      {
+        "title": "鸽群中的猫_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "鸽群中的猫_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 99146,
+        "chapters": 7
+      },
+      {
+        "title": "七钟面之谜_阿加莎·克里斯蒂.txt",
+        "filename": "七钟面之谜_阿加莎·克里斯蒂.md",
+        "length": 138644,
+        "chapters": 35
+      },
+      {
+        "title": "人性的记录_阿加莎·克里斯蒂.txt",
+        "filename": "人性的记录_阿加莎·克里斯蒂.md",
+        "length": 92638,
+        "chapters": 18
+      },
+      {
+        "title": "悬崖山庄奇案_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "悬崖山庄奇案_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 87083,
+        "chapters": 17
+      },
+      {
+        "title": "天涯过客_阿加莎·克里斯蒂.txt",
+        "filename": "天涯过客_阿加莎·克里斯蒂.md",
+        "length": 93763,
+        "chapters": 0
+      },
+      {
+        "title": "神秘的奎恩先生_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "神秘的奎恩先生_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 96635,
+        "chapters": 8
+      },
+      {
+        "title": "神秘的第三者_阿加莎·克里斯蒂.txt",
+        "filename": "神秘的第三者_阿加莎·克里斯蒂.md",
+        "length": 71118,
+        "chapters": 0
+      },
+      {
+        "title": "清洁女工之死_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "清洁女工之死_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 94570,
+        "chapters": 20
+      },
+      {
+        "title": "死亡草_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "死亡草_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 97435,
+        "chapters": 4
+      },
+      {
+        "title": "死亡约会_阿加莎·克里斯蒂.txt",
+        "filename": "死亡约会_阿加莎·克里斯蒂.md",
+        "length": 91583,
+        "chapters": 0
+      },
+      {
+        "title": "狱门岛(金田一探案集)_横沟正史.txt",
+        "filename": "狱门岛(金田一探案集)_横沟正史.md",
+        "length": 83795,
+        "chapters": 13
+      },
+      {
+        "title": "底牌_阿加莎·克里斯蒂.txt",
+        "filename": "底牌_阿加莎·克里斯蒂.md",
+        "length": 49238,
+        "chapters": 16
+      },
+      {
+        "title": "名侦探的规条_东野圭吾.txt",
+        "filename": "名侦探的规条_东野圭吾.md",
+        "length": 93415,
+        "chapters": 0
+      },
+      {
+        "title": "三只瞎老鼠_阿加莎·克里斯蒂.txt",
+        "filename": "三只瞎老鼠_阿加莎·克里斯蒂.md",
+        "length": 41399,
+        "chapters": 5
+      },
+      {
+        "title": "大西洋案件_阿加莎·克里斯蒂.txt",
+        "filename": "大西洋案件_阿加莎·克里斯蒂.md",
+        "length": 68004,
+        "chapters": 17
+      },
+      {
+        "title": "大侦探十二奇案_阿加莎·克里斯蒂.txt",
+        "filename": "大侦探十二奇案_阿加莎·克里斯蒂.md",
+        "length": 93607,
+        "chapters": 7
+      },
+      {
+        "title": "拇指一竖_阿加莎·克里斯蒂.txt",
+        "filename": "拇指一竖_阿加莎·克里斯蒂.md",
+        "length": 128180,
+        "chapters": 0
+      },
+      {
+        "title": "国际学舍谋杀案.txt",
+        "filename": "国际学舍谋杀案.md",
+        "length": 56709,
+        "chapters": 0
+      },
+      {
+        "title": "罗杰疑案_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "罗杰疑案_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 92610,
+        "chapters": 19
+      },
+      {
+        "title": "庄园迷案_阿加莎·克里斯蒂.txt",
+        "filename": "庄园迷案_阿加莎·克里斯蒂.md",
+        "length": 93154,
+        "chapters": 31
+      },
+      {
+        "title": "万圣节前夜的谋杀案_阿加莎·克里斯蒂.txt",
+        "filename": "万圣节前夜的谋杀案_阿加莎·克里斯蒂.md",
+        "length": 70561,
+        "chapters": 14
+      },
+      {
+        "title": "H庄园的一次午餐_阿加莎·克里斯蒂.txt",
+        "filename": "H庄园的一次午餐_阿加莎·克里斯蒂.md",
+        "length": 90792,
+        "chapters": 48
+      },
+      {
+        "title": "七钟面之谜_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "七钟面之谜_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 227520,
+        "chapters": 12
+      },
+      {
+        "title": "魔手_阿加莎·克里斯蒂.txt",
+        "filename": "魔手_阿加莎·克里斯蒂.md",
+        "length": 90823,
+        "chapters": 5
+      },
+      {
+        "title": "推理银版1206.PDF",
+        "filename": "推理银版1206.md",
+        "length": 36836,
+        "chapters": 4
+      },
+      {
+        "title": "无妄之灾_阿加莎·克里斯蒂.txt",
+        "filename": "无妄之灾_阿加莎·克里斯蒂.md",
+        "length": 97577,
+        "chapters": 0
+      },
+      {
+        "title": "命运之门_阿加莎·克里斯蒂.txt",
+        "filename": "命运之门_阿加莎·克里斯蒂.md",
+        "length": 75527,
+        "chapters": 0
+      },
+      {
+        "title": "万灵节之死_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "万灵节之死_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 93345,
+        "chapters": 18
+      },
+      {
+        "title": "无妄之灾_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "无妄之灾_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 96551,
+        "chapters": 17
+      },
+      {
+        "title": "落幕－白罗最後探案_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "落幕－白罗最後探案_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 91335,
+        "chapters": 18
+      },
+      {
+        "title": "第三个女郎_阿加莎·克里斯蒂.txt",
+        "filename": "第三个女郎_阿加莎·克里斯蒂.md",
+        "length": 91221,
+        "chapters": 16
+      },
+      {
+        "title": "伯特伦旅馆之谜_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "伯特伦旅馆之谜_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 93574,
+        "chapters": 19
+      },
+      {
+        "title": "金色的机遇_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "金色的机遇_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 91161,
+        "chapters": 0
+      },
+      {
+        "title": "假戏成真_阿加莎·克里斯蒂.txt",
+        "filename": "假戏成真_阿加莎·克里斯蒂.md",
+        "length": 111915,
+        "chapters": 0
+      },
+      {
+        "title": "底牌_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "底牌_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 76004,
+        "chapters": 25
+      },
+      {
+        "title": "命案目睹记_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "命案目睹记_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 101039,
+        "chapters": 0
+      },
+      {
+        "title": "雪地上的女尸_阿加莎·克里斯蒂.txt",
+        "filename": "雪地上的女尸_阿加莎·克里斯蒂.md",
+        "length": 90993,
+        "chapters": 12
+      },
+      {
+        "title": "金色的机遇_阿加莎·克里斯蒂.txt",
+        "filename": "金色的机遇_阿加莎·克里斯蒂.md",
+        "length": 91084,
+        "chapters": 0
+      },
+      {
+        "title": "加勒比海岛谋杀案_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "加勒比海岛谋杀案_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 107123,
+        "chapters": 0
+      },
+      {
+        "title": "畸形屋_阿加莎·克里斯蒂.txt",
+        "filename": "畸形屋_阿加莎·克里斯蒂.md",
+        "length": 81889,
+        "chapters": 0
+      },
+      {
+        "title": "H庄园的一次午餐_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "H庄园的一次午餐_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 90909,
+        "chapters": 31
+      },
+      {
+        "title": "谍海_阿加莎·克里斯蒂.txt",
+        "filename": "谍海_阿加莎·克里斯蒂.md",
+        "length": 92529,
+        "chapters": 19
+      },
+      {
+        "title": "魔手_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "魔手_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 89830,
+        "chapters": 0
+      },
+      {
+        "title": "空幻之屋_阿加莎·克里斯蒂.txt",
+        "filename": "空幻之屋_阿加莎·克里斯蒂.md",
+        "length": 94776,
+        "chapters": 12
+      },
+      {
+        "title": "葬礼之后_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "葬礼之后_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 100629,
+        "chapters": 9
+      },
+      {
+        "title": "烟囱大厦的秘密_阿加莎·克里斯蒂.txt",
+        "filename": "烟囱大厦的秘密_阿加莎·克里斯蒂.md",
+        "length": 91522,
+        "chapters": 19
+      },
+      {
+        "title": "鸽群中的猫_阿加莎·克里斯蒂.txt",
+        "filename": "鸽群中的猫_阿加莎·克里斯蒂.md",
+        "length": 93495,
+        "chapters": 31
+      },
+      {
+        "title": "畸形屋_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "畸形屋_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 94117,
+        "chapters": 19
+      },
+      {
+        "title": "谋杀现场1.txt",
+        "filename": "谋杀现场1.md",
+        "length": 252662,
+        "chapters": 0
+      },
+      {
+        "title": "此夜绵绵_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "此夜绵绵_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 93553,
+        "chapters": 18
+      },
+      {
+        "title": "ABC谋杀案_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "ABC谋杀案_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 85655,
+        "chapters": 34
+      },
+      {
+        "title": "蓝色特快上的秘密_阿加莎·克里斯蒂.txt",
+        "filename": "蓝色特快上的秘密_阿加莎·克里斯蒂.md",
+        "length": 93157,
+        "chapters": 29
+      },
+      {
+        "title": "虚拟谋杀_冯华.txt",
+        "filename": "虚拟谋杀_冯华.md",
+        "length": 81201,
+        "chapters": 9
+      },
+      {
+        "title": "斯泰尔斯庄园奇案_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "斯泰尔斯庄园奇案_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 92789,
+        "chapters": 12
+      },
+      {
+        "title": "杀人不难_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "杀人不难_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 91736,
+        "chapters": 23
+      },
+      {
+        "title": "孤岛奇案_阿加莎·克里斯蒂.txt",
+        "filename": "孤岛奇案_阿加莎·克里斯蒂.md",
+        "length": 88904,
+        "chapters": 13
+      },
+      {
+        "title": "罗杰·艾克罗伊德谋杀案_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "罗杰·艾克罗伊德谋杀案_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 98827,
+        "chapters": 9
+      },
+      {
+        "title": "推理银版1205.PDF",
+        "filename": "推理银版1205.md",
+        "length": 97891,
+        "chapters": 0
+      },
+      {
+        "title": "神秘的第三者_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "神秘的第三者_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 59817,
+        "chapters": 6
+      },
+      {
+        "title": "命案目睹记_阿加莎·克里斯蒂.txt",
+        "filename": "命案目睹记_阿加莎·克里斯蒂.md",
+        "length": 95958,
+        "chapters": 0
+      },
+      {
+        "title": "悬崖上的谋杀___阿加莎·克里斯蒂-TXT小说天堂.txt",
+        "filename": "悬崖上的谋杀___阿加莎·克里斯蒂-TXT小说天堂.md",
+        "length": 47149,
+        "chapters": 16
+      },
+      {
+        "title": "首相绑架案_阿加莎·克里斯蒂.txt",
+        "filename": "首相绑架案_阿加莎·克里斯蒂.md",
+        "length": 288224,
+        "chapters": 0
+      },
+      {
+        "title": "QQ群谋杀案_郑太守.txt",
+        "filename": "QQ群谋杀案_郑太守.md",
+        "length": 85821,
+        "chapters": 59
+      },
+      {
+        "title": "白马酒店_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "白马酒店_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 95176,
+        "chapters": 17
+      },
+      {
+        "title": "四大魔头_阿加莎·克里斯蒂_TXT小说天堂.txt",
+        "filename": "四大魔头_阿加莎·克里斯蒂_TXT小说天堂.md",
+        "length": 93344,
+        "chapters": 18
+      },
+      {
+        "title": "犯罪团伙短篇集_阿加莎·克里斯蒂.txt",
+        "filename": "犯罪团伙短篇集_阿加莎·克里斯蒂.md",
+        "length": 91008,
+        "chapters": 19
+      },
+      {
+        "title": "艳阳下的谋杀案_阿加莎·克里斯蒂.txt",
+        "filename": "艳阳下的谋杀案_阿加莎·克里斯蒂.md",
+        "length": 93084,
+        "chapters": 0
+      }
+    ],
+    "網絡小說": [
+      {
+        "title": "《潇洒如风（女尊）》作者星无言.txt",
+        "filename": "《潇洒如风（女尊）》作者星无言.md",
+        "length": 106565,
+        "chapters": 1
+      },
+      {
+        "title": "【虐渣】穿成霸总第二春[穿书].txt",
+        "filename": "【虐渣】穿成霸总第二春[穿书].md",
+        "length": 116176,
+        "chapters": 0
+      },
+      {
+        "title": "重生幸福庄园.txt",
+        "filename": "重生幸福庄园.md",
+        "length": 9938,
+        "chapters": 44
+      },
+      {
+        "title": "重生之拈花二笑.txt",
+        "filename": "重生之拈花二笑.md",
+        "length": 12504,
+        "chapters": 6
+      },
+      {
+        "title": "重生追缉令.txt",
+        "filename": "重生追缉令.md",
+        "length": 68881,
+        "chapters": 320
+      },
+      {
+        "title": "兰陵旧事+番外》绝对经典的穿越女尊.txt",
+        "filename": "兰陵旧事+番外》绝对经典的穿越女尊.md",
+        "length": 107239,
+        "chapters": 4
+      },
+      {
+        "title": "杀手穿越：小小王妃也倾城.txt",
+        "filename": "杀手穿越：小小王妃也倾城.md",
+        "length": 113517,
+        "chapters": 0
+      },
+      {
+        "title": "重生之破茧.txt",
+        "filename": "重生之破茧.md",
+        "length": 79867,
+        "chapters": 3127
+      },
+      {
+        "title": "戏花弄（穿越，一女N男，女尊男卑）[完结].txt",
+        "filename": "戏花弄（穿越，一女N男，女尊男卑）[完结].md",
+        "length": 58906,
+        "chapters": 0
+      },
+      {
+        "title": "重生之小鱼儿.txt",
+        "filename": "重生之小鱼儿.md",
+        "length": 112499,
+        "chapters": 0
+      },
+      {
+        "title": "《第一侯》作者：希行（起点10W高收藏文，重生古言，终于完结啦，好多小书友追的，口碑很好~）.txt",
+        "filename": "《第一侯》作者：希行（起点10W高收藏文，重生古言，终于完结啦，好多小书友追的，口碑很好~）.md",
+        "length": 218043,
+        "chapters": 0
+      },
+      {
+        "title": "我不要做皇帝(女尊).txt",
+        "filename": "我不要做皇帝(女尊).md",
+        "length": 238889,
+        "chapters": 7
+      },
+      {
+        "title": "【女强女配】被我渣过的反派黑化了[穿书].txt",
+        "filename": "【女强女配】被我渣过的反派黑化了[穿书].md",
+        "length": 102869,
+        "chapters": 0
+      },
+      {
+        "title": "重生之家有童养媳.txt",
+        "filename": "重生之家有童养媳.md",
+        "length": 91993,
+        "chapters": 0
+      },
+      {
+        "title": "阴阳错女尊完.txt",
+        "filename": "阴阳错女尊完.md",
+        "length": 117241,
+        "chapters": 3225
+      },
+      {
+        "title": "重生之刹那芳华.txt",
+        "filename": "重生之刹那芳华.md",
+        "length": 300078,
+        "chapters": 0
+      },
+      {
+        "title": "女主现代重生--重生之静候锦年.txt",
+        "filename": "女主现代重生--重生之静候锦年.md",
+        "length": 66126,
+        "chapters": 5
+      },
+      {
+        "title": "重生之公主难为.txt",
+        "filename": "重生之公主难为.md",
+        "length": 97014,
+        "chapters": 1
+      },
+      {
+        "title": "重生传奇-1.txt",
+        "filename": "重生传奇-1.md",
+        "length": 109053,
+        "chapters": 1072
+      },
+      {
+        "title": "彼岸的栀子花（女尊）.txt",
+        "filename": "彼岸的栀子花（女尊）.md",
+        "length": 10847,
+        "chapters": 8
+      },
+      {
+        "title": "女主现代重生--重生之爱无痕.txt",
+        "filename": "女主现代重生--重生之爱无痕.md",
+        "length": 52530,
+        "chapters": 0
+      },
+      {
+        "title": "贪财女王爷（女尊）.txt",
+        "filename": "贪财女王爷（女尊）.md",
+        "length": 91813,
+        "chapters": 1
+      },
+      {
+        "title": "（古代重生）权阀嫡女---谁是谁的傀儡娃娃.txt",
+        "filename": "（古代重生）权阀嫡女---谁是谁的傀儡娃娃.md",
+        "length": 334798,
+        "chapters": 16
+      },
+      {
+        "title": "【女主小说】重生之林家娇妻.txt",
+        "filename": "【女主小说】重生之林家娇妻.md",
+        "length": 198692,
+        "chapters": 3034
+      },
+      {
+        "title": "星月烟华（女尊男卑）.TXT",
+        "filename": "星月烟华（女尊男卑）.md",
+        "length": 90979,
+        "chapters": 5
+      },
+      {
+        "title": "腐女重生.txt",
+        "filename": "腐女重生.md",
+        "length": 101068,
+        "chapters": 963
+      },
+      {
+        "title": "《七零娇气美人[穿书]》作者：棠酥.txt",
+        "filename": "《七零娇气美人[穿书]》作者：棠酥.md",
+        "length": 299030,
+        "chapters": 38
+      },
+      {
+        "title": "重生麻雀变凤凰_派派小说.txt",
+        "filename": "重生麻雀变凤凰_派派小说.md",
+        "length": 185711,
+        "chapters": 54
+      },
+      {
+        "title": "穿越：我的36年（1971-2007）.txt",
+        "filename": "穿越：我的36年（1971-2007）.md",
+        "length": 204599,
+        "chapters": 6
+      },
+      {
+        "title": "派派小说穿越之艳福高照-言情小说-言情吧.txt",
+        "filename": "派派小说穿越之艳福高照-言情小说-言情吧.md",
+        "length": 51986,
+        "chapters": 402
+      },
+      {
+        "title": "女主现代重生--重生之非你莫属.txt",
+        "filename": "女主现代重生--重生之非你莫属.md",
+        "length": 346809,
+        "chapters": 7
+      },
+      {
+        "title": "女主现代重生--重生之莫珈.txt",
+        "filename": "女主现代重生--重生之莫珈.md",
+        "length": 92210,
+        "chapters": 0
+      },
+      {
+        "title": "女主现代重生--不做豪门梦的灰姑娘.txt",
+        "filename": "女主现代重生--不做豪门梦的灰姑娘.md",
+        "length": 102003,
+        "chapters": 2
+      },
+      {
+        "title": "女主现代重生--重生之风云再起.txt",
+        "filename": "女主现代重生--重生之风云再起.md",
+        "length": 9805,
+        "chapters": 23
+      },
+      {
+        "title": "随风（女尊不小白）.TXT",
+        "filename": "随风（女尊不小白）.md",
+        "length": 88744,
+        "chapters": 1219
+      },
+      {
+        "title": "重生之骗你没商量.txt",
+        "filename": "重生之骗你没商量.md",
+        "length": 71624,
+        "chapters": 0
+      },
+      {
+        "title": "自由飞翔(女尊男卑).TXT",
+        "filename": "自由飞翔(女尊男卑).md",
+        "length": 90704,
+        "chapters": 0
+      },
+      {
+        "title": "（现代重生）重生之女王崛起---紫魂.txt",
+        "filename": "（现代重生）重生之女王崛起---紫魂.md",
+        "length": 358634,
+        "chapters": 1175
+      },
+      {
+        "title": "《嫁给前任他小叔[穿书]》作者：七箩.txt",
+        "filename": "《嫁给前任他小叔[穿书]》作者：七箩.md",
+        "length": 101776,
+        "chapters": 1
+      },
+      {
+        "title": "《十年华衣(女尊)》狷狂——【原创小说言情小说】——晋江原创网.txt",
+        "filename": "《十年华衣(女尊)》狷狂——【原创小说言情小说】——晋江原创网.md",
+        "length": 97889,
+        "chapters": 5
+      },
+      {
+        "title": "《重生—豪门妖女》（重生豪门系列）作者：懒离婚.txt",
+        "filename": "《重生—豪门妖女》（重生豪门系列）作者：懒离婚.md",
+        "length": 229456,
+        "chapters": 1
+      },
+      {
+        "title": "潇洒如风之重生.txt",
+        "filename": "潇洒如风之重生.md",
+        "length": 412202,
+        "chapters": 26
+      },
+      {
+        "title": "重生之偷你妹啊！.txt",
+        "filename": "重生之偷你妹啊！.md",
+        "length": 81027,
+        "chapters": 0
+      },
+      {
+        "title": "《重生之魔法师》by绝望的苹果派(完结+番外....txt",
+        "filename": "《重生之魔法师》by绝望的苹果派(完结+番外....md",
+        "length": 76570,
+        "chapters": 0
+      },
+      {
+        "title": "妾狂(穿越女强文).txt",
+        "filename": "妾狂(穿越女强文).md",
+        "length": 189807,
+        "chapters": 2
+      },
+      {
+        "title": "重生之暮色之城.txt",
+        "filename": "重生之暮色之城.md",
+        "length": 320016,
+        "chapters": 1
+      },
+      {
+        "title": "重生之轻狂_完结_派派小说.txt",
+        "filename": "重生之轻狂_完结_派派小说.md",
+        "length": 85842,
+        "chapters": 0
+      },
+      {
+        "title": "傲骨重生[1].txt",
+        "filename": "傲骨重生[1].md",
+        "length": 77827,
+        "chapters": 0
+      },
+      {
+        "title": "重生在豆蔻年华_派派小说.txt",
+        "filename": "重生在豆蔻年华_派派小说.md",
+        "length": 284633,
+        "chapters": 1
+      },
+      {
+        "title": "重生之静候锦年_派派小说.txt",
+        "filename": "重生之静候锦年_派派小说.md",
+        "length": 153501,
+        "chapters": 0
+      },
+      {
+        "title": "重生大明星_派派小说.txt",
+        "filename": "重生大明星_派派小说.md",
+        "length": 98383,
+        "chapters": 1
+      },
+      {
+        "title": "重生之我的快乐我做主.txt",
+        "filename": "重生之我的快乐我做主.md",
+        "length": 148006,
+        "chapters": 13
+      },
+      {
+        "title": "重生之我是被逼的.txt",
+        "filename": "重生之我是被逼的.md",
+        "length": 56682,
+        "chapters": 0
+      },
+      {
+        "title": "我的老婆是重生的.txt",
+        "filename": "我的老婆是重生的.md",
+        "length": 361014,
+        "chapters": 18
+      },
+      {
+        "title": "女主现代重生--花之芬芳人生.txt",
+        "filename": "女主现代重生--花之芬芳人生.md",
+        "length": 72137,
+        "chapters": 1124
+      },
+      {
+        "title": "重生之绝代商娇.txt",
+        "filename": "重生之绝代商娇.md",
+        "length": 240585,
+        "chapters": 3639
+      },
+      {
+        "title": "重生之缘来如此简单.txt",
+        "filename": "重生之缘来如此简单.md",
+        "length": 172877,
+        "chapters": 17
+      },
+      {
+        "title": "天翔风云录（女尊）.TXT",
+        "filename": "天翔风云录（女尊）.md",
+        "length": 98741,
+        "chapters": 0
+      },
+      {
+        "title": "女主现代重生--重生之黄太子记事.txt",
+        "filename": "女主现代重生--重生之黄太子记事.md",
+        "length": 141034,
+        "chapters": 11
+      },
+      {
+        "title": "御苍生-沐炎坤钰（女尊）.txt",
+        "filename": "御苍生-沐炎坤钰（女尊）.md",
+        "length": 8464,
+        "chapters": 13
+      },
+      {
+        "title": "（现代重生空间娱乐圈）重生之最佳编剧---仕途之妖.txt",
+        "filename": "（现代重生空间娱乐圈）重生之最佳编剧---仕途之妖.md",
+        "length": 141801,
+        "chapters": 0
+      },
+      {
+        "title": "重生之风云再起.TXT",
+        "filename": "重生之风云再起.md",
+        "length": 74074,
+        "chapters": 9
+      },
+      {
+        "title": "兰陵旧事(女尊).txt",
+        "filename": "兰陵旧事(女尊).md",
+        "length": 100557,
+        "chapters": 0
+      },
+      {
+        "title": "《重生之中国式王子》作者：茗茶秋毫.txt",
+        "filename": "《重生之中国式王子》作者：茗茶秋毫.md",
+        "length": 58329,
+        "chapters": 0
+      },
+      {
+        "title": "重生之扛上冷情王爷.txt",
+        "filename": "重生之扛上冷情王爷.md",
+        "length": 11938,
+        "chapters": 302
+      },
+      {
+        "title": "重生之军中红颜_派派小说_派派小说.txt",
+        "filename": "重生之军中红颜_派派小说_派派小说.md",
+        "length": 70846,
+        "chapters": 0
+      },
+      {
+        "title": "反派带我成白富美[穿书].txt",
+        "filename": "反派带我成白富美[穿书].md",
+        "length": 83669,
+        "chapters": 0
+      },
+      {
+        "title": "重生1998完整版.txt",
+        "filename": "重生1998完整版.md",
+        "length": 117206,
+        "chapters": 34
+      },
+      {
+        "title": "重生小保姆.txt",
+        "filename": "重生小保姆.md",
+        "length": 107207,
+        "chapters": 8
+      },
+      {
+        "title": "穿越之男女皇后.txt",
+        "filename": "穿越之男女皇后.md",
+        "length": 254043,
+        "chapters": 40
+      },
+      {
+        "title": "穿越之女尊传奇.txt",
+        "filename": "穿越之女尊传奇.md",
+        "length": 114175,
+        "chapters": 0
+      },
+      {
+        "title": "《重生小夫妻》+作者+夜雨风华+[完结].txt",
+        "filename": "《重生小夫妻》+作者+夜雨风华+[完结].md",
+        "length": 92826,
+        "chapters": 5
+      },
+      {
+        "title": "女主现代重生--穿越之我的剽窃人生by曾记往今.txt",
+        "filename": "女主现代重生--穿越之我的剽窃人生by曾记往今.md",
+        "length": 117504,
+        "chapters": 1
+      },
+      {
+        "title": "重生之军嫂.txt",
+        "filename": "重生之军嫂.md",
+        "length": 121704,
+        "chapters": 0
+      },
+      {
+        "title": "重生传奇-2.txt",
+        "filename": "重生传奇-2.md",
+        "length": 169807,
+        "chapters": 0
+      },
+      {
+        "title": "【女主小说】重生林家闺秀.txt",
+        "filename": "【女主小说】重生林家闺秀.md",
+        "length": 17555,
+        "chapters": 50
+      },
+      {
+        "title": "重生之将门嫡女不好惹.txt",
+        "filename": "重生之将门嫡女不好惹.md",
+        "length": 675478,
+        "chapters": 1223
+      },
+      {
+        "title": "《穿越事件簿》.TXT",
+        "filename": "《穿越事件簿》.md",
+        "length": 201638,
+        "chapters": 0
+      },
+      {
+        "title": "（古代重生）相公你好，相公再贱---晏听弦.txt",
+        "filename": "（古代重生）相公你好，相公再贱---晏听弦.md",
+        "length": 114640,
+        "chapters": 0
+      },
+      {
+        "title": "（现代重生）重生之生娃---森中一小妖.txt",
+        "filename": "（现代重生）重生之生娃---森中一小妖.md",
+        "length": 133051,
+        "chapters": 1
+      },
+      {
+        "title": "重生之美女掠夺者.txt",
+        "filename": "重生之美女掠夺者.md",
+        "length": 81560,
+        "chapters": 151
+      },
+      {
+        "title": "我是女皇（女尊男卑，一女N男）.TXT",
+        "filename": "我是女皇（女尊男卑，一女N男）.md",
+        "length": 103785,
+        "chapters": 0
+      },
+      {
+        "title": "女主现代重生--重生之昔我往矣)by菊文字.txt",
+        "filename": "女主现代重生--重生之昔我往矣)by菊文字.md",
+        "length": 92265,
+        "chapters": 3330
+      },
+      {
+        "title": "重生之珠光宝妻.txt",
+        "filename": "重生之珠光宝妻.md",
+        "length": 237504,
+        "chapters": 6
+      },
+      {
+        "title": "重生之名门贵女.txt",
+        "filename": "重生之名门贵女.md",
+        "length": 307604,
+        "chapters": 43
+      },
+      {
+        "title": "重生之与你共缠绵（正文完）.txt",
+        "filename": "重生之与你共缠绵（正文完）.md",
+        "length": 519335,
+        "chapters": 52
+      },
+      {
+        "title": "（古代重生江湖）宁为欲碎---步蟾.txt",
+        "filename": "（古代重生江湖）宁为欲碎---步蟾.md",
+        "length": 99645,
+        "chapters": 1
+      },
+      {
+        "title": "杀手也穿越系列之媚者无情.txt",
+        "filename": "杀手也穿越系列之媚者无情.md",
+        "length": 7835,
+        "chapters": 70
+      },
+      {
+        "title": "【女主小说】穿越民国也难嫁.txt",
+        "filename": "【女主小说】穿越民国也难嫁.md",
+        "length": 99073,
+        "chapters": 495
+      },
+      {
+        "title": "骗行天下（女尊）.txt",
+        "filename": "骗行天下（女尊）.md",
+        "length": 38836,
+        "chapters": 200
+      },
+      {
+        "title": "（古代重生）重生嫡妻斗宅门---失落的喧嚣.txt",
+        "filename": "（古代重生）重生嫡妻斗宅门---失落的喧嚣.md",
+        "length": 502683,
+        "chapters": 7
+      },
+      {
+        "title": "女主现代重生--附身千金(晋江vip完结).txt",
+        "filename": "女主现代重生--附身千金(晋江vip完结).md",
+        "length": 17564,
+        "chapters": 30
+      },
+      {
+        "title": "重生之原来你爱我.txt",
+        "filename": "重生之原来你爱我.md",
+        "length": 11949,
+        "chapters": 4
+      },
+      {
+        "title": "女主现代重生--回到过去.txt",
+        "filename": "女主现代重生--回到过去.md",
+        "length": 263844,
+        "chapters": 1
+      },
+      {
+        "title": "行路（女尊）.txt",
+        "filename": "行路（女尊）.md",
+        "length": 806127,
+        "chapters": 18
+      },
+      {
+        "title": "妃常穿越：逃妃难再逑.txt",
+        "filename": "妃常穿越：逃妃难再逑.md",
+        "length": 231446,
+        "chapters": 14
+      },
+      {
+        "title": "重生之非你莫属.txt",
+        "filename": "重生之非你莫属.md",
+        "length": 323929,
+        "chapters": 2
+      },
+      {
+        "title": "穿越错嫁冷傲毒君：倾世毒妃.txt",
+        "filename": "穿越错嫁冷傲毒君：倾世毒妃.md",
+        "length": 382240,
+        "chapters": 403
+      },
+      {
+        "title": "（古代重生）重生之千金庶女---七星盟主.txt",
+        "filename": "（古代重生）重生之千金庶女---七星盟主.md",
+        "length": 351056,
+        "chapters": 2
+      },
+      {
+        "title": "梦蕊（女尊）.txt",
+        "filename": "梦蕊（女尊）.md",
+        "length": 153323,
+        "chapters": 0
+      },
+      {
+        "title": "（现代重生空间）重生之张辰秀---不爱写字的落.txt",
+        "filename": "（现代重生空间）重生之张辰秀---不爱写字的落.md",
+        "length": 98080,
+        "chapters": 1
+      },
+      {
+        "title": "重生微醺初夏.txt",
+        "filename": "重生微醺初夏.md",
+        "length": 70683,
+        "chapters": 2
+      },
+      {
+        "title": "女主现代重生--姚水儿的移魂记事.txt",
+        "filename": "女主现代重生--姚水儿的移魂记事.md",
+        "length": 7323,
+        "chapters": 7
+      },
+      {
+        "title": "随意＊遂意（女尊）.TXT",
+        "filename": "随意＊遂意（女尊）.md",
+        "length": 65741,
+        "chapters": 0
+      },
+      {
+        "title": "重生之赵小涵向前冲.txt",
+        "filename": "重生之赵小涵向前冲.md",
+        "length": 584792,
+        "chapters": 1513
+      },
+      {
+        "title": "重生之赌神圣女.txt",
+        "filename": "重生之赌神圣女.md",
+        "length": 9415,
+        "chapters": 5
+      },
+      {
+        "title": "在穿书文里被迫装学渣by朽木刁也.txt",
+        "filename": "在穿书文里被迫装学渣by朽木刁也.md",
+        "length": 101156,
+        "chapters": 1
+      },
+      {
+        "title": "《重生之远走高飞》作者：乌刃【完结+番外】晋江VIP3.12完结.txt",
+        "filename": "《重生之远走高飞》作者：乌刃【完结+番外】晋江VIP3.12完结.md",
+        "length": 58362,
+        "chapters": 0
+      },
+      {
+        "title": "《重生八零幸福路》作者：墨染清安.txt",
+        "filename": "《重生八零幸福路》作者：墨染清安.md",
+        "length": 2423328,
+        "chapters": 6043
+      },
+      {
+        "title": "【女主小说】穿越强国之末代公主.txt",
+        "filename": "【女主小说】穿越强国之末代公主.md",
+        "length": 162520,
+        "chapters": 0
+      },
+      {
+        "title": "【女主小说】穿越之民国华丽缘.txt",
+        "filename": "【女主小说】穿越之民国华丽缘.md",
+        "length": 88280,
+        "chapters": 5280
+      },
+      {
+        "title": "【女主小说】重生之民国名媛.txt",
+        "filename": "【女主小说】重生之民国名媛.md",
+        "length": 239973,
+        "chapters": 144
+      },
+      {
+        "title": "（古代重生家斗）代婚---薛湘灵.txt",
+        "filename": "（古代重生家斗）代婚---薛湘灵.md",
+        "length": 15533,
+        "chapters": 17
+      },
+      {
+        "title": "（古代重生异能）重生之名门锦翠---柔桡轻曼.txt",
+        "filename": "（古代重生异能）重生之名门锦翠---柔桡轻曼.md",
+        "length": 55503,
+        "chapters": 0
+      },
+      {
+        "title": "折草记-女尊.txt",
+        "filename": "折草记-女尊.md",
+        "length": 180683,
+        "chapters": 0
+      },
+      {
+        "title": "女主现代重生--重生之银.txt",
+        "filename": "女主现代重生--重生之银.md",
+        "length": 90634,
+        "chapters": 0
+      },
+      {
+        "title": "《重生之酒色贪杯》作者：柔の千舞[非河蟹....txt",
+        "filename": "《重生之酒色贪杯》作者：柔の千舞[非河蟹....md",
+        "length": 135298,
+        "chapters": 0
+      },
+      {
+        "title": "重生之莫晓.txt",
+        "filename": "重生之莫晓.md",
+        "length": 315570,
+        "chapters": 0
+      },
+      {
+        "title": "（现代重生）此女猛于虎---猗凡.txt",
+        "filename": "（现代重生）此女猛于虎---猗凡.md",
+        "length": 78021,
+        "chapters": 0
+      },
+      {
+        "title": "《重生之小女子记事》.txt",
+        "filename": "《重生之小女子记事》.md",
+        "length": 211821,
+        "chapters": 1
+      },
+      {
+        "title": "重生之黄太子记事.txt",
+        "filename": "重生之黄太子记事.md",
+        "length": 15898,
+        "chapters": 22
+      },
+      {
+        "title": "（古代重生宅斗）重生之填房---征文作者.txt",
+        "filename": "（古代重生宅斗）重生之填房---征文作者.md",
+        "length": 215124,
+        "chapters": 3
+      },
+      {
+        "title": "折草记-女尊_湖月沉香_浪漫言情小说_连城读书.txt",
+        "filename": "折草记-女尊_湖月沉香_浪漫言情小说_连城读书.md",
+        "length": 88143,
+        "chapters": 1
+      },
+      {
+        "title": "重生之艺能天后_派派小说_派派小说.txt",
+        "filename": "重生之艺能天后_派派小说_派派小说.md",
+        "length": 57758,
+        "chapters": 0
+      },
+      {
+        "title": "重生之简单的幸福-派派.txt",
+        "filename": "重生之简单的幸福-派派.md",
+        "length": 114980,
+        "chapters": 0
+      },
+      {
+        "title": "重生之还君晚朝.txt",
+        "filename": "重生之还君晚朝.md",
+        "length": 83056,
+        "chapters": 0
+      },
+      {
+        "title": "（现代重生）重生之漫步四时---月下四时.txt",
+        "filename": "（现代重生）重生之漫步四时---月下四时.md",
+        "length": 103998,
+        "chapters": 4
+      },
+      {
+        "title": "女主现代重生--重生之弃妇大改造.txt",
+        "filename": "女主现代重生--重生之弃妇大改造.md",
+        "length": 634974,
+        "chapters": 12
+      },
+      {
+        "title": "【爽文】穿越兽世当神棍.txt",
+        "filename": "【爽文】穿越兽世当神棍.md",
+        "length": 68363,
+        "chapters": 1
+      },
+      {
+        "title": "如画之江山（女尊）.txt",
+        "filename": "如画之江山（女尊）.md",
+        "length": 120885,
+        "chapters": 0
+      },
+      {
+        "title": "重生.TXT",
+        "filename": "重生.md",
+        "length": 94652,
+        "chapters": 0
+      },
+      {
+        "title": "女主现代重生--重生之思思的伟大理想by哥白尼的主人.txt",
+        "filename": "女主现代重生--重生之思思的伟大理想by哥白尼的主人.md",
+        "length": 19498,
+        "chapters": 295
+      },
+      {
+        "title": "佳佳的重生之旅.txt",
+        "filename": "佳佳的重生之旅.md",
+        "length": 104297,
+        "chapters": 0
+      },
+      {
+        "title": "重生指腹为婚.txt",
+        "filename": "重生指腹为婚.md",
+        "length": 247336,
+        "chapters": 1
+      },
+      {
+        "title": "凤舞苍穹（女尊文）.txt",
+        "filename": "凤舞苍穹（女尊文）.md",
+        "length": 10983,
+        "chapters": 6
+      },
+      {
+        "title": "女主现代重生--重生之山月儿.txt",
+        "filename": "女主现代重生--重生之山月儿.md",
+        "length": 76854,
+        "chapters": 5
+      },
+      {
+        "title": "女主现代重生--重生夏琉璃.txt",
+        "filename": "女主现代重生--重生夏琉璃.md",
+        "length": 50150,
+        "chapters": 1
+      },
+      {
+        "title": "重生之我的幸福.txt",
+        "filename": "重生之我的幸福.md",
+        "length": 92214,
+        "chapters": 3324
+      },
+      {
+        "title": "（古代重生）重生之庶女狠毒---楚长安.txt",
+        "filename": "（古代重生）重生之庶女狠毒---楚长安.md",
+        "length": 98065,
+        "chapters": 1
+      },
+      {
+        "title": "解夏(女尊）.txt",
+        "filename": "解夏(女尊）.md",
+        "length": 93902,
+        "chapters": 0
+      },
+      {
+        "title": "阴阳错（女尊）.TXT",
+        "filename": "阴阳错（女尊）.md",
+        "length": 78297,
+        "chapters": 0
+      },
+      {
+        "title": "女主现代重生--重生之爱莫能弃作者：月非娆+.TXT",
+        "filename": "女主现代重生--重生之爱莫能弃作者：月非娆+.md",
+        "length": 74230,
+        "chapters": 0
+      },
+      {
+        "title": "女主现代重生--重生之千面女优.txt",
+        "filename": "女主现代重生--重生之千面女优.md",
+        "length": 196114,
+        "chapters": 2843
+      },
+      {
+        "title": "随风逐流(女尊男卑)_萧泛_青春幻想小说_连城读书.txt",
+        "filename": "随风逐流(女尊男卑)_萧泛_青春幻想小说_连城读书.md",
+        "length": 52163,
+        "chapters": 0
+      },
+      {
+        "title": "（古代重生）庶手遮天---魔莲.txt",
+        "filename": "（古代重生）庶手遮天---魔莲.md",
+        "length": 122855,
+        "chapters": 1848
+      }
+    ],
+    "其他": [
+      {
+        "title": "粗心爱神_厄尔·斯坦利·加德纳.txt",
+        "filename": "粗心爱神_厄尔·斯坦利·加德纳.md",
+        "length": 93969,
+        "chapters": 18
+      },
+      {
+        "title": "午夜的回忆_西德尼·谢尔顿.txt",
+        "filename": "午夜的回忆_西德尼·谢尔顿.md",
+        "length": 74544,
+        "chapters": 5
+      },
+      {
+        "title": "《清见月和他的狐狸》by杨家娜娜(完结).txt",
+        "filename": "《清见月和他的狐狸》by杨家娜娜(完结).md",
+        "length": 43758,
+        "chapters": 3
+      },
+      {
+        "title": "末日病毒_信周.txt",
+        "filename": "末日病毒_信周.md",
+        "length": 94194,
+        "chapters": 0
+      },
+      {
+        "title": "伯恩的身份_罗伯特·陆德伦.txt",
+        "filename": "伯恩的身份_罗伯特·陆德伦.md",
+        "length": 90765,
+        "chapters": 12
+      },
+      {
+        "title": "英雄时代-柳建伟.epub",
+        "filename": "英雄时代-柳建伟.md",
+        "length": 80715,
+        "chapters": 5
+      },
+      {
+        "title": "悬旗.txt",
+        "filename": "悬旗.md",
+        "length": 573576,
+        "chapters": 26
+      },
+      {
+        "title": "朱纱.txt",
+        "filename": "朱纱.md",
+        "length": 427889,
+        "chapters": 1704
+      },
+      {
+        "title": "时间的女儿_约瑟芬·铁伊.txt",
+        "filename": "时间的女儿_约瑟芬·铁伊.md",
+        "length": 90308,
+        "chapters": 13
+      },
+      {
+        "title": "嫌疑人X的献身_东野圭吾.txt",
+        "filename": "嫌疑人X的献身_东野圭吾.md",
+        "length": 91271,
+        "chapters": 16
+      },
+      {
+        "title": "1号重案组_毛德远.txt",
+        "filename": "1号重案组_毛德远.md",
+        "length": 30378,
+        "chapters": 6
+      },
+      {
+        "title": "权倾天下之淡漠丞相.txt",
+        "filename": "权倾天下之淡漠丞相.md",
+        "length": 102160,
+        "chapters": 0
+      },
+      {
+        "title": "猫血_上官午夜_TXT小说天堂.txt",
+        "filename": "猫血_上官午夜_TXT小说天堂.md",
+        "length": 90617,
+        "chapters": 8
+      },
+      {
+        "title": "镇魂调.txt",
+        "filename": "镇魂调.md",
+        "length": 443312,
+        "chapters": 0
+      },
+      {
+        "title": "《一颗水蜜桃》桃子草莓笑.txt",
+        "filename": "《一颗水蜜桃》桃子草莓笑.md",
+        "length": 111922,
+        "chapters": 0
+      },
+      {
+        "title": "天蝎森林_上官午夜.txt",
+        "filename": "天蝎森林_上官午夜.md",
+        "length": 90653,
+        "chapters": 5
+      },
+      {
+        "title": "新闻的第三只眼_雪燃.txt",
+        "filename": "新闻的第三只眼_雪燃.md",
+        "length": 88166,
+        "chapters": 37
+      },
+      {
+        "title": "不归的复仇者_西村寿行.txt",
+        "filename": "不归的复仇者_西村寿行.md",
+        "length": 88909,
+        "chapters": 33
+      },
+      {
+        "title": "一先令蜡烛_约瑟芬·铁伊.txt",
+        "filename": "一先令蜡烛_约瑟芬·铁伊.md",
+        "length": 91646,
+        "chapters": 20
+      },
+      {
+        "title": "青囊尸衣_鲁班尺_TXT小说天堂.txt",
+        "filename": "青囊尸衣_鲁班尺_TXT小说天堂.md",
+        "length": 863940,
+        "chapters": 272
+      },
+      {
+        "title": "骗局_丹·布朗.txt",
+        "filename": "骗局_丹·布朗.md",
+        "length": 89823,
+        "chapters": 13
+      },
+      {
+        "title": "《永夜》全集.txt",
+        "filename": "《永夜》全集.md",
+        "length": 24629,
+        "chapters": 12
+      },
+      {
+        "title": "嫡女心计.txt",
+        "filename": "嫡女心计.md",
+        "length": 162236,
+        "chapters": 723
+      },
+      {
+        "title": "南山祖坟_赵大秀才.txt",
+        "filename": "南山祖坟_赵大秀才.md",
+        "length": 86863,
+        "chapters": 23
+      },
+      {
+        "title": "唱歌的沙_约瑟芬·铁伊.txt",
+        "filename": "唱歌的沙_约瑟芬·铁伊.md",
+        "length": 92944,
+        "chapters": 12
+      },
+      {
+        "title": "变色的诱惑.txt",
+        "filename": "变色的诱惑.md",
+        "length": 91495,
+        "chapters": 25
+      },
+      {
+        "title": "【女主小说】别跟我讲大道理.txt",
+        "filename": "【女主小说】别跟我讲大道理.md",
+        "length": 202362,
+        "chapters": 7005
+      },
+      {
+        "title": "且试天下.TXT",
+        "filename": "且试天下.md",
+        "length": 27934,
+        "chapters": 100
+      },
+      {
+        "title": "墨蛇狂情.txt",
+        "filename": "墨蛇狂情.md",
+        "length": 110396,
+        "chapters": 2
+      },
+      {
+        "title": "观世音密码_苗欣宇.txt",
+        "filename": "观世音密码_苗欣宇.md",
+        "length": 91312,
+        "chapters": 0
+      },
+      {
+        "title": "墨莲[完结].txt",
+        "filename": "墨莲[完结].md",
+        "length": 99197,
+        "chapters": 401
+      },
+      {
+        "title": "漫长的告别_雷蒙德·钱德勒.txt",
+        "filename": "漫长的告别_雷蒙德·钱德勒.md",
+        "length": 70581,
+        "chapters": 3
+      },
+      {
+        "title": "百年诅咒_那多.txt",
+        "filename": "百年诅咒_那多.md",
+        "length": 91731,
+        "chapters": 22
+      },
+      {
+        "title": "《吟咏风歌.txt",
+        "filename": "《吟咏风歌.md",
+        "length": 89916,
+        "chapters": 0
+      },
+      {
+        "title": "藏地密码5_何马.txt",
+        "filename": "藏地密码5_何马.md",
+        "length": 87519,
+        "chapters": 0
+      },
+      {
+        "title": "铁牛重现_那多.txt",
+        "filename": "铁牛重现_那多.md",
+        "length": 59405,
+        "chapters": 6
+      },
+      {
+        "title": "花之芬芳人生（派）.txt",
+        "filename": "花之芬芳人生（派）.md",
+        "length": 53064,
+        "chapters": 4
+      },
+      {
+        "title": "薄情佣兵妃：王爷妻不可欺.txt",
+        "filename": "薄情佣兵妃：王爷妻不可欺.md",
+        "length": 335018,
+        "chapters": 7775
+      },
+      {
+        "title": "《盲妃待嫁》.TXT",
+        "filename": "《盲妃待嫁》.md",
+        "length": 218746,
+        "chapters": 2118
+      },
+      {
+        "title": "初出茅庐破大案_厄尔·斯坦利·加德纳.txt",
+        "filename": "初出茅庐破大案_厄尔·斯坦利·加德纳.md",
+        "length": 96604,
+        "chapters": 5
+      },
+      {
+        "title": "血族天使_上官午夜_TXT小说天堂.txt",
+        "filename": "血族天使_上官午夜_TXT小说天堂.md",
+        "length": 192083,
+        "chapters": 0
+      },
+      {
+        "title": "爱江山更爱美男(123合集).txt",
+        "filename": "爱江山更爱美男(123合集).md",
+        "length": 118749,
+        "chapters": 7
+      },
+      {
+        "title": "望天.txt",
+        "filename": "望天.md",
+        "length": 113939,
+        "chapters": 0
+      },
+      {
+        "title": "荒宅迷兆_无意归.txt",
+        "filename": "荒宅迷兆_无意归.md",
+        "length": 88861,
+        "chapters": 0
+      },
+      {
+        "title": "异世安生.txt",
+        "filename": "异世安生.md",
+        "length": 243613,
+        "chapters": 0
+      },
+      {
+        "title": "神探韩峰：高智商犯罪_何马_TXT小说天堂.txt",
+        "filename": "神探韩峰：高智商犯罪_何马_TXT小说天堂.md",
+        "length": 44907,
+        "chapters": 21
+      },
+      {
+        "title": "砂之器_.txt",
+        "filename": "砂之器_.md",
+        "length": 43449,
+        "chapters": 211
+      },
+      {
+        "title": "女人阶梯_松本清张.txt",
+        "filename": "女人阶梯_松本清张.md",
+        "length": 88799,
+        "chapters": 0
+      },
+      {
+        "title": "白夜行_东野圭吾.txt",
+        "filename": "白夜行_东野圭吾.md",
+        "length": 102549,
+        "chapters": 1
+      },
+      {
+        "title": "流光夜雪txt.txt",
+        "filename": "流光夜雪txt.md",
+        "length": 68200,
+        "chapters": 1
+      },
+      {
+        "title": "斗罗大陆_唐家三少_TXT小说天堂.txt",
+        "filename": "斗罗大陆_唐家三少_TXT小说天堂.md",
+        "length": 91764,
+        "chapters": 0
+      },
+      {
+        "title": "地狱_丹·布朗_TXT小说天堂.txt",
+        "filename": "地狱_丹·布朗_TXT小说天堂.md",
+        "length": 298918,
+        "chapters": 118
+      },
+      {
+        "title": "东藏记-宗璞.epub",
+        "filename": "东藏记-宗璞.md",
+        "length": 86759,
+        "chapters": 3
+      },
+      {
+        "title": "最后致意_柯南·道尔.txt",
+        "filename": "最后致意_柯南·道尔.md",
+        "length": 91499,
+        "chapters": 0
+      },
+      {
+        "title": "你知道的太多了.txt",
+        "filename": "你知道的太多了.md",
+        "length": 27852,
+        "chapters": 17
+      },
+      {
+        "title": "《他的浪漫》作者：时星草.txt",
+        "filename": "《他的浪漫》作者：时星草.md",
+        "length": 835822,
+        "chapters": 30
+      },
+      {
+        "title": "山河赋.txt",
+        "filename": "山河赋.md",
+        "length": 244288,
+        "chapters": 0
+      },
+      {
+        "title": "幽灵信箱_余以健.txt",
+        "filename": "幽灵信箱_余以健.md",
+        "length": 87714,
+        "chapters": 29
+      },
+      {
+        "title": "鲁班的诅咒_圆太极.txt",
+        "filename": "鲁班的诅咒_圆太极.md",
+        "length": 175332,
+        "chapters": 39
+      },
+      {
+        "title": "琅嬛府主.txt",
+        "filename": "琅嬛府主.md",
+        "length": 92678,
+        "chapters": 5206
+      },
+      {
+        "title": "古怪的微笑_鲁班尺.txt",
+        "filename": "古怪的微笑_鲁班尺.md",
+        "length": 48542,
+        "chapters": 21
+      },
+      {
+        "title": "十宗罪_蜘蛛.txt",
+        "filename": "十宗罪_蜘蛛.md",
+        "length": 88807,
+        "chapters": 25
+      },
+      {
+        "title": "毕业前杀人游戏_东野圭吾.txt",
+        "filename": "毕业前杀人游戏_东野圭吾.md",
+        "length": 91359,
+        "chapters": 2
+      },
+      {
+        "title": "血璃真谛Ⅱ.TXT",
+        "filename": "血璃真谛Ⅱ.md",
+        "length": 55757,
+        "chapters": 600
+      },
+      {
+        "title": "宛如塘鹅.txt",
+        "filename": "宛如塘鹅.md",
+        "length": 33291,
+        "chapters": 8
+      },
+      {
+        "title": "【快穿爽文】天道他让我积德.txt",
+        "filename": "【快穿爽文】天道他让我积德.md",
+        "length": 123359,
+        "chapters": 0
+      },
+      {
+        "title": "每晚一个离奇故事2_王雨辰.txt",
+        "filename": "每晚一个离奇故事2_王雨辰.md",
+        "length": 59969,
+        "chapters": 0
+      },
+      {
+        "title": "汉尼拔_托马斯·哈里斯.txt",
+        "filename": "汉尼拔_托马斯·哈里斯.md",
+        "length": 87167,
+        "chapters": 23
+      },
+      {
+        "title": "博来·法拉先生_约瑟芬·铁伊_TXT小说天堂.txt",
+        "filename": "博来·法拉先生_约瑟芬·铁伊_TXT小说天堂.md",
+        "length": 142377,
+        "chapters": 31
+      },
+      {
+        "title": "耳语娃娃(浮墙)_艾西恩_TXT小说天堂.txt",
+        "filename": "耳语娃娃(浮墙)_艾西恩_TXT小说天堂.md",
+        "length": 91600,
+        "chapters": 18
+      },
+      {
+        "title": "无名星游记.txt",
+        "filename": "无名星游记.md",
+        "length": 75680,
+        "chapters": 0
+      },
+      {
+        "title": "小强女主的被PIA飞史.txt",
+        "filename": "小强女主的被PIA飞史.md",
+        "length": 70241,
+        "chapters": 0
+      },
+      {
+        "title": "天眼_九方楼兰.txt",
+        "filename": "天眼_九方楼兰.md",
+        "length": 167921,
+        "chapters": 19
+      },
+      {
+        "title": "《醉玲珑》十四夜.txt",
+        "filename": "《醉玲珑》十四夜.md",
+        "length": 85989,
+        "chapters": 0
+      },
+      {
+        "title": "一先令蜡烛_约瑟芬·铁伊_TXT小说天堂.txt",
+        "filename": "一先令蜡烛_约瑟芬·铁伊_TXT小说天堂.md",
+        "length": 91760,
+        "chapters": 24
+      },
+      {
+        "title": "时间的女儿_约瑟芬·铁伊_TXT小说天堂.txt",
+        "filename": "时间的女儿_约瑟芬·铁伊_TXT小说天堂.md",
+        "length": 92961,
+        "chapters": 7
+      },
+      {
+        "title": "只有警察知道_马拓.txt",
+        "filename": "只有警察知道_马拓.md",
+        "length": 90782,
+        "chapters": 25
+      },
+      {
+        "title": "随意传奇.txt",
+        "filename": "随意传奇.md",
+        "length": 105767,
+        "chapters": 0
+      },
+      {
+        "title": "古怪的微笑_鲁班尺_TXT小说天堂.txt",
+        "filename": "古怪的微笑_鲁班尺_TXT小说天堂.md",
+        "length": 36892,
+        "chapters": 17
+      },
+      {
+        "title": "偏执反派总是粘着我[快穿].txt",
+        "filename": "偏执反派总是粘着我[快穿].md",
+        "length": 6773,
+        "chapters": 50
+      },
+      {
+        "title": "额尔古纳河右岸-迟子建.epub",
+        "filename": "额尔古纳河右岸-迟子建.md",
+        "length": 71348,
+        "chapters": 0
+      },
+      {
+        "title": "血字的研究_柯南·道尔_TXT小说天堂.txt",
+        "filename": "血字的研究_柯南·道尔_TXT小说天堂.md",
+        "length": 83837,
+        "chapters": 0
+      },
+      {
+        "title": "雪地杀机_东野圭吾.txt",
+        "filename": "雪地杀机_东野圭吾.md",
+        "length": 92161,
+        "chapters": 0
+      },
+      {
+        "title": "离魂衣_西岭雪.txt",
+        "filename": "离魂衣_西岭雪.md",
+        "length": 85886,
+        "chapters": 17
+      },
+      {
+        "title": "七杀_上官午夜_TXT小说天堂.txt",
+        "filename": "七杀_上官午夜_TXT小说天堂.md",
+        "length": 175620,
+        "chapters": 10
+      },
+      {
+        "title": "邮差总敲两次门_詹姆斯·凯恩.txt",
+        "filename": "邮差总敲两次门_詹姆斯·凯恩.md",
+        "length": 65965,
+        "chapters": 16
+      },
+      {
+        "title": "戏龙_派派小说.txt",
+        "filename": "戏龙_派派小说.md",
+        "length": 97841,
+        "chapters": 218
+      },
+      {
+        "title": "银发银眸大贤者.txt",
+        "filename": "银发银眸大贤者.md",
+        "length": 116074,
+        "chapters": 1025
+      },
+      {
+        "title": "人皮论语_冶文彪.txt",
+        "filename": "人皮论语_冶文彪.md",
+        "length": 77343,
+        "chapters": 13
+      },
+      {
+        "title": "似是而非_冯华.txt",
+        "filename": "似是而非_冯华.md",
+        "length": 51991,
+        "chapters": 0
+      },
+      {
+        "title": "秀丽江山.txt",
+        "filename": "秀丽江山.md",
+        "length": 86380,
+        "chapters": 1197
+      },
+      {
+        "title": "武林盟主(新添番外.txt",
+        "filename": "武林盟主(新添番外.md",
+        "length": 76134,
+        "chapters": 0
+      },
+      {
+        "title": "天蝎森林_上官午夜_TXT小说天堂.txt",
+        "filename": "天蝎森林_上官午夜_TXT小说天堂.md",
+        "length": 88288,
+        "chapters": 6
+      },
+      {
+        "title": "病毒_蔡骏.txt",
+        "filename": "病毒_蔡骏.md",
+        "length": 92681,
+        "chapters": 1
+      },
+      {
+        "title": "追捕(渡过愤怒的河)_西村寿行.txt",
+        "filename": "追捕(渡过愤怒的河)_西村寿行.md",
+        "length": 63078,
+        "chapters": 15
+      },
+      {
+        "title": "美男在手天下走.txt",
+        "filename": "美男在手天下走.md",
+        "length": 91278,
+        "chapters": 0
+      },
+      {
+        "title": "凶心人_那多.txt",
+        "filename": "凶心人_那多.md",
+        "length": 66970,
+        "chapters": 0
+      },
+      {
+        "title": "风烟引.txt",
+        "filename": "风烟引.md",
+        "length": 9571,
+        "chapters": 5
+      },
+      {
+        "title": "二十四小时_江雨朵.txt",
+        "filename": "二十四小时_江雨朵.md",
+        "length": 37348,
+        "chapters": 4
+      },
+      {
+        "title": "茅山后裔_大力金刚掌.txt",
+        "filename": "茅山后裔_大力金刚掌.md",
+        "length": 20388,
+        "chapters": 6
+      },
+      {
+        "title": "心理罪·画像_雷米.txt",
+        "filename": "心理罪·画像_雷米.md",
+        "length": 36929,
+        "chapters": 47
+      },
+      {
+        "title": "失落的约柜_葛瑞姆·汉卡克.txt",
+        "filename": "失落的约柜_葛瑞姆·汉卡克.md",
+        "length": 93608,
+        "chapters": 40
+      },
+      {
+        "title": "冷钢_文泽尔.txt",
+        "filename": "冷钢_文泽尔.md",
+        "length": 92334,
+        "chapters": 4
+      },
+      {
+        "title": "黄帝的咒语_呼延云.txt",
+        "filename": "黄帝的咒语_呼延云.md",
+        "length": 52029,
+        "chapters": 226
+      },
+      {
+        "title": "金匮六壬盘2：大闹悟空神墓_圣者晨雷-高云一方.txt",
+        "filename": "金匮六壬盘2：大闹悟空神墓_圣者晨雷-高云一方.md",
+        "length": 89557,
+        "chapters": 11
+      },
+      {
+        "title": "特奎拉日升_文泽尔.txt",
+        "filename": "特奎拉日升_文泽尔.md",
+        "length": 64187,
+        "chapters": 0
+      },
+      {
+        "title": "不服咬我（电竞）.txt",
+        "filename": "不服咬我（电竞）.md",
+        "length": 205665,
+        "chapters": 11
+      },
+      {
+        "title": "变形人_那多.txt",
+        "filename": "变形人_那多.md",
+        "length": 67048,
+        "chapters": 0
+      },
+      {
+        "title": "藏地密码9_何马.txt",
+        "filename": "藏地密码9_何马.md",
+        "length": 88156,
+        "chapters": 9
+      },
+      {
+        "title": "《宗亲家的小娘子》作者：荔箫.txt",
+        "filename": "《宗亲家的小娘子》作者：荔箫.md",
+        "length": 224802,
+        "chapters": 24
+      },
+      {
+        "title": "盲妃十六岁.txt",
+        "filename": "盲妃十六岁.md",
+        "length": 301128,
+        "chapters": 0
+      },
+      {
+        "title": "墓诀_肥丁.txt",
+        "filename": "墓诀_肥丁.md",
+        "length": 153932,
+        "chapters": 30
+      },
+      {
+        "title": "药师寺凉子怪奇事件簿_田中芳树.txt",
+        "filename": "药师寺凉子怪奇事件簿_田中芳树.md",
+        "length": 268399,
+        "chapters": 27
+      },
+      {
+        "title": "这边风景（上下）-王蒙.epub",
+        "filename": "这边风景（上下）-王蒙.md",
+        "length": 69340,
+        "chapters": 36
+      },
+      {
+        "title": "杀手必读手册_天狱地堂.txt",
+        "filename": "杀手必读手册_天狱地堂.md",
+        "length": 122937,
+        "chapters": 9
+      },
+      {
+        "title": "答案只有风知道_西默尔.txt",
+        "filename": "答案只有风知道_西默尔.md",
+        "length": 88156,
+        "chapters": 23
+      },
+      {
+        "title": "老尸客栈_鲁班尺.txt",
+        "filename": "老尸客栈_鲁班尺.md",
+        "length": 70810,
+        "chapters": 24
+      },
+      {
+        "title": "派派小说_凤傲天下.txt",
+        "filename": "派派小说_凤傲天下.md",
+        "length": 102832,
+        "chapters": 1
+      },
+      {
+        "title": "向日葵不开的夏天_道尾秀介.txt",
+        "filename": "向日葵不开的夏天_道尾秀介.md",
+        "length": 95905,
+        "chapters": 0
+      },
+      {
+        "title": "笑拥江山美男全文阅读·逍遥红尘·潇湘书院.txt",
+        "filename": "笑拥江山美男全文阅读·逍遥红尘·潇湘书院.md",
+        "length": 124755,
+        "chapters": 0
+      },
+      {
+        "title": "《宠瘾难戒》作者：衣衫乱.txt",
+        "filename": "《宠瘾难戒》作者：衣衫乱.md",
+        "length": 106403,
+        "chapters": 0
+      },
+      {
+        "title": "法兰柴思事件_约瑟芬·铁伊.txt",
+        "filename": "法兰柴思事件_约瑟芬·铁伊.md",
+        "length": 95095,
+        "chapters": 13
+      },
+      {
+        "title": "湖边凶杀案_东野圭吾.txt",
+        "filename": "湖边凶杀案_东野圭吾.md",
+        "length": 87498,
+        "chapters": 5
+      },
+      {
+        "title": "历史的天空-徐贵祥.epub",
+        "filename": "历史的天空-徐贵祥.md",
+        "length": 83101,
+        "chapters": 1
+      },
+      {
+        "title": "深夜小狗神秘习题_马克·海登.txt",
+        "filename": "深夜小狗神秘习题_马克·海登.md",
+        "length": 35154,
+        "chapters": 23
+      },
+      {
+        "title": "惊天奇案_何马_TXT小说天堂.txt",
+        "filename": "惊天奇案_何马_TXT小说天堂.md",
+        "length": 378551,
+        "chapters": 2
+      },
+      {
+        "title": "植物_艾西恩.txt",
+        "filename": "植物_艾西恩.md",
+        "length": 93025,
+        "chapters": 16
+      },
+      {
+        "title": "地狱_丹·布朗.txt",
+        "filename": "地狱_丹·布朗.md",
+        "length": 99118,
+        "chapters": 23
+      },
+      {
+        "title": "就要和你在一起.txt",
+        "filename": "就要和你在一起.md",
+        "length": 99126,
+        "chapters": 485
+      },
+      {
+        "title": "我的王子们.txt",
+        "filename": "我的王子们.md",
+        "length": 401094,
+        "chapters": 14
+      },
+      {
+        "title": "应物兄（全2册）-李洱.epub",
+        "filename": "应物兄（全2册）-李洱.md",
+        "length": 709259,
+        "chapters": 12
+      },
+      {
+        "title": "《桃花绚烂时》.txt",
+        "filename": "《桃花绚烂时》.md",
+        "length": 95176,
+        "chapters": 17
+      },
+      {
+        "title": "风月祈.txt",
+        "filename": "风月祈.md",
+        "length": 83034,
+        "chapters": 0
+      },
+      {
+        "title": "《只有她知道》作者：南樵渔人.txt",
+        "filename": "《只有她知道》作者：南樵渔人.md",
+        "length": 103280,
+        "chapters": 1
+      },
+      {
+        "title": "女帝.txt",
+        "filename": "女帝.md",
+        "length": 53921,
+        "chapters": 0
+      },
+      {
+        "title": "且珍行.txt",
+        "filename": "且珍行.md",
+        "length": 104943,
+        "chapters": 0
+      },
+      {
+        "title": "【宠文】厨妻当道.txt",
+        "filename": "【宠文】厨妻当道.md",
+        "length": 495120,
+        "chapters": 15
+      },
+      {
+        "title": "情好难留.txt",
+        "filename": "情好难留.md",
+        "length": 75112,
+        "chapters": 0
+      },
+      {
+        "title": "阴阳错.TXT",
+        "filename": "阴阳错.md",
+        "length": 115582,
+        "chapters": 718
+      },
+      {
+        "title": "天机：龙脉迷踪之翡翠扳指_信周.txt",
+        "filename": "天机：龙脉迷踪之翡翠扳指_信周.md",
+        "length": 80587,
+        "chapters": 24
+      },
+      {
+        "title": "弃妃不好当.txt",
+        "filename": "弃妃不好当.md",
+        "length": 222912,
+        "chapters": 2192
+      },
+      {
+        "title": "黑色的疯狂_西村寿行.txt",
+        "filename": "黑色的疯狂_西村寿行.md",
+        "length": 88655,
+        "chapters": 5
+      },
+      {
+        "title": "媚乱天下.txt",
+        "filename": "媚乱天下.md",
+        "length": 161845,
+        "chapters": 577
+      },
+      {
+        "title": "蝴蝶公墓_蔡骏.txt",
+        "filename": "蝴蝶公墓_蔡骏.md",
+        "length": 87073,
+        "chapters": 44
+      },
+      {
+        "title": "狐狸相公by跳跃的火焰.txt",
+        "filename": "狐狸相公by跳跃的火焰.md",
+        "length": 95227,
+        "chapters": 0
+      },
+      {
+        "title": "崩溃_罗伯特·利伯尔曼.txt",
+        "filename": "崩溃_罗伯特·利伯尔曼.md",
+        "length": 94328,
+        "chapters": 1
+      },
+      {
+        "title": "唱歌的沙_约瑟芬·铁伊_TXT小说天堂.txt",
+        "filename": "唱歌的沙_约瑟芬·铁伊_TXT小说天堂.md",
+        "length": 92463,
+        "chapters": 11
+      },
+      {
+        "title": "大瀑布.txt",
+        "filename": "大瀑布.md",
+        "length": 324139,
+        "chapters": 1
+      },
+      {
+        "title": "《全世界都在攻略我》作者：初云之初.txt",
+        "filename": "《全世界都在攻略我》作者：初云之初.md",
+        "length": 106561,
+        "chapters": 0
+      },
+      {
+        "title": "阴毒妃嫔.txt",
+        "filename": "阴毒妃嫔.md",
+        "length": 23731,
+        "chapters": 77
+      },
+      {
+        "title": "小偷的诡异档案_花布.txt",
+        "filename": "小偷的诡异档案_花布.md",
+        "length": 23080,
+        "chapters": 11
+      },
+      {
+        "title": "异事录_蛇从革.txt",
+        "filename": "异事录_蛇从革.md",
+        "length": 31532,
+        "chapters": 7
+      },
+      {
+        "title": "《不正经喜欢[娱乐圈]》作者：逦逦.txt",
+        "filename": "《不正经喜欢[娱乐圈]》作者：逦逦.md",
+        "length": 108228,
+        "chapters": 1
+      },
+      {
+        "title": "遇见.TXT",
+        "filename": "遇见.md",
+        "length": 57150,
+        "chapters": 0
+      },
+      {
+        "title": "霸道王子.txt",
+        "filename": "霸道王子.md",
+        "length": 81433,
+        "chapters": 0
+      },
+      {
+        "title": "左绍忠-卧底_左绍忠.txt",
+        "filename": "左绍忠-卧底_左绍忠.md",
+        "length": 84279,
+        "chapters": 7
+      },
+      {
+        "title": "《这世界与他，我都要》作者：蒋牧童.txt",
+        "filename": "《这世界与他，我都要》作者：蒋牧童.md",
+        "length": 7921,
+        "chapters": 50
+      },
+      {
+        "title": "冷王的孽妃.txt",
+        "filename": "冷王的孽妃.md",
+        "length": 310286,
+        "chapters": 1749
+      },
+      {
+        "title": "《各界巨佬争着喜当舅》作者：万莉塔.txt",
+        "filename": "《各界巨佬争着喜当舅》作者：万莉塔.md",
+        "length": 203535,
+        "chapters": 57
+      },
+      {
+        "title": "藏地密码10(神圣大结局)_何马_TXT小说天堂.txt",
+        "filename": "藏地密码10(神圣大结局)_何马_TXT小说天堂.md",
+        "length": 344726,
+        "chapters": 61
+      },
+      {
+        "title": "傲风.txt",
+        "filename": "傲风.md",
+        "length": 71348,
+        "chapters": 1102
+      },
+      {
+        "title": "冷玥华歌.txt",
+        "filename": "冷玥华歌.md",
+        "length": 166628,
+        "chapters": 1830
+      },
+      {
+        "title": "高校诡话_夷梦.txt",
+        "filename": "高校诡话_夷梦.md",
+        "length": 89559,
+        "chapters": 17
+      },
+      {
+        "title": "最鸳缘.txt",
+        "filename": "最鸳缘.md",
+        "length": 859438,
+        "chapters": 20
+      },
+      {
+        "title": "真与假_松本清张.txt",
+        "filename": "真与假_松本清张.md",
+        "length": 45534,
+        "chapters": 10
+      },
+      {
+        "title": "王妃七岁了.txt",
+        "filename": "王妃七岁了.md",
+        "length": 19964,
+        "chapters": 7
+      },
+      {
+        "title": "青囊尸衣_鲁班尺.txt",
+        "filename": "青囊尸衣_鲁班尺.md",
+        "length": 643837,
+        "chapters": 693
+      },
+      {
+        "title": "长陵_容九.txt",
+        "filename": "长陵_容九.md",
+        "length": 75695,
+        "chapters": 0
+      },
+      {
+        "title": "娑罗.txt",
+        "filename": "娑罗.md",
+        "length": 1284377,
+        "chapters": 2372
+      },
+      {
+        "title": "人间（中）卷·复活夜.txt",
+        "filename": "人间（中）卷·复活夜.md",
+        "length": 125572,
+        "chapters": 2
+      },
+      {
+        "title": "六指_鲁班尺_TXT小说天堂.txt",
+        "filename": "六指_鲁班尺_TXT小说天堂.md",
+        "length": 77111,
+        "chapters": 30
+      },
+      {
+        "title": "最后致意_柯南·道尔_TXT小说天堂.txt",
+        "filename": "最后致意_柯南·道尔_TXT小说天堂.md",
+        "length": 89705,
+        "chapters": 0
+      },
+      {
+        "title": "《女配家里有金矿》作者：森夏葵.txt",
+        "filename": "《女配家里有金矿》作者：森夏葵.md",
+        "length": 6205,
+        "chapters": 42
+      },
+      {
+        "title": "隐之书_A·S·拜雅特.txt",
+        "filename": "隐之书_A·S·拜雅特.md",
+        "length": 87690,
+        "chapters": 57
+      },
+      {
+        "title": "点与线_.txt",
+        "filename": "点与线_.md",
+        "length": 56692,
+        "chapters": 9
+      },
+      {
+        "title": "天机三·大空城之夜.txt",
+        "filename": "天机三·大空城之夜.md",
+        "length": 56441,
+        "chapters": 0
+      },
+      {
+        "title": "新疆探秘录之黑暗戈壁_冷残河.txt",
+        "filename": "新疆探秘录之黑暗戈壁_冷残河.md",
+        "length": 86402,
+        "chapters": 22
+      },
+      {
+        "title": "邪医毒妃.txt",
+        "filename": "邪医毒妃.md",
+        "length": 538491,
+        "chapters": 0
+      },
+      {
+        "title": "姑获鸟之夏_京极夏彦.txt",
+        "filename": "姑获鸟之夏_京极夏彦.md",
+        "length": 68534,
+        "chapters": 0
+      },
+      {
+        "title": "猫血_上官午夜.txt",
+        "filename": "猫血_上官午夜.md",
+        "length": 153033,
+        "chapters": 7
+      },
+      {
+        "title": "除了我你还能爱谁.txt",
+        "filename": "除了我你还能爱谁.md",
+        "length": 218753,
+        "chapters": 1200
+      },
+      {
+        "title": "天谴者女王(被诅咒的女王)_安妮·赖斯.txt",
+        "filename": "天谴者女王(被诅咒的女王)_安妮·赖斯.md",
+        "length": 89127,
+        "chapters": 0
+      },
+      {
+        "title": "逐花.txt",
+        "filename": "逐花.md",
+        "length": 91243,
+        "chapters": 0
+      },
+      {
+        "title": "藏地密码2_何马_TXT小说天堂.txt",
+        "filename": "藏地密码2_何马_TXT小说天堂.md",
+        "length": 88137,
+        "chapters": 6
+      },
+      {
+        "title": "嫡女不得宠.txt",
+        "filename": "嫡女不得宠.md",
+        "length": 128220,
+        "chapters": 980
+      },
+      {
+        "title": "坏种子_那多.txt",
+        "filename": "坏种子_那多.md",
+        "length": 51307,
+        "chapters": 0
+      },
+      {
+        "title": "君韵.txt",
+        "filename": "君韵.md",
+        "length": 98887,
+        "chapters": 0
+      },
+      {
+        "title": "排队的人_约瑟芬·铁伊_TXT小说天堂.txt",
+        "filename": "排队的人_约瑟芬·铁伊_TXT小说天堂.md",
+        "length": 88616,
+        "chapters": 12
+      },
+      {
+        "title": "暴君，我来自军情9处.txt",
+        "filename": "暴君，我来自军情9处.md",
+        "length": 155305,
+        "chapters": 8
+      },
+      {
+        "title": "血字的研究_柯南·道尔.txt",
+        "filename": "血字的研究_柯南·道尔.md",
+        "length": 85758,
+        "chapters": 0
+      },
+      {
+        "title": "威尼斯之石_恒殊.txt",
+        "filename": "威尼斯之石_恒殊.md",
+        "length": 87066,
+        "chapters": 11
+      },
+      {
+        "title": "六岁小蛇后.txt",
+        "filename": "六岁小蛇后.md",
+        "length": 294027,
+        "chapters": 0
+      },
+      {
+        "title": "派派小说乱涟漪完结,一女N男,喜剧结尾.txt",
+        "filename": "派派小说乱涟漪完结,一女N男,喜剧结尾.md",
+        "length": 16959,
+        "chapters": 25
+      },
+      {
+        "title": "失踪的女人_西村寿行.txt",
+        "filename": "失踪的女人_西村寿行.md",
+        "length": 89817,
+        "chapters": 3
+      },
+      {
+        "title": "桃花夜_韦一.txt",
+        "filename": "桃花夜_韦一.md",
+        "length": 163550,
+        "chapters": 26
+      },
+      {
+        "title": "亡者永生_那多.txt",
+        "filename": "亡者永生_那多.md",
+        "length": 93090,
+        "chapters": 2
+      },
+      {
+        "title": "目睹殡仪馆之诡异事件_李非凡.txt",
+        "filename": "目睹殡仪馆之诡异事件_李非凡.md",
+        "length": 86255,
+        "chapters": 24
+      },
+      {
+        "title": "凤仕.txt",
+        "filename": "凤仕.md",
+        "length": 91083,
+        "chapters": 1
+      },
+      {
+        "title": "媚公卿.txt",
+        "filename": "媚公卿.md",
+        "length": 211854,
+        "chapters": 0
+      },
+      {
+        "title": "藏地密码10(神圣大结局)_何马.txt",
+        "filename": "藏地密码10(神圣大结局)_何马.md",
+        "length": 85881,
+        "chapters": 16
+      },
+      {
+        "title": "谁在等你_余以健.txt",
+        "filename": "谁在等你_余以健.md",
+        "length": 86198,
+        "chapters": 34
+      },
+      {
+        "title": "别墅疑云_厄尔·斯坦利·加德纳.txt",
+        "filename": "别墅疑云_厄尔·斯坦利·加德纳.md",
+        "length": 93854,
+        "chapters": 14
+      },
+      {
+        "title": "怡然自得.txt",
+        "filename": "怡然自得.md",
+        "length": 120160,
+        "chapters": 0
+      },
+      {
+        "title": "山河赋m.txt",
+        "filename": "山河赋m.md",
+        "length": 467494,
+        "chapters": 0
+      },
+      {
+        "title": "《你是漫天星光》作者：喻言家.txt",
+        "filename": "《你是漫天星光》作者：喻言家.md",
+        "length": 106313,
+        "chapters": 1679
+      },
+      {
+        "title": "黄河东流去-李准.epub",
+        "filename": "黄河东流去-李准.md",
+        "length": 78839,
+        "chapters": 12
+      },
+      {
+        "title": "八夫临门全文阅读,小说八夫临门全文免费在线阅读.txt",
+        "filename": "八夫临门全文阅读,小说八夫临门全文免费在线阅读.md",
+        "length": 129041,
+        "chapters": 8
+      },
+      {
+        "title": "岛田庄司中短篇小说选_岛田壮司.txt",
+        "filename": "岛田庄司中短篇小说选_岛田壮司.md",
+        "length": 80627,
+        "chapters": 42
+      },
+      {
+        "title": "戒不掉的他.txt",
+        "filename": "戒不掉的他.md",
+        "length": 79452,
+        "chapters": 250
+      },
+      {
+        "title": "碎便士_艾西恩.txt",
+        "filename": "碎便士_艾西恩.md",
+        "length": 93819,
+        "chapters": 20
+      },
+      {
+        "title": "天机全集_蔡骏.txt",
+        "filename": "天机全集_蔡骏.md",
+        "length": 92880,
+        "chapters": 17
+      },
+      {
+        "title": "老兵诡事录_飞行电烫斗.txt",
+        "filename": "老兵诡事录_飞行电烫斗.md",
+        "length": 40170,
+        "chapters": 8
+      },
+      {
+        "title": "第七个读者_雷米.txt",
+        "filename": "第七个读者_雷米.md",
+        "length": 88669,
+        "chapters": 20
+      },
+      {
+        "title": "孤月行.txt",
+        "filename": "孤月行.md",
+        "length": 109627,
+        "chapters": 0
+      },
+      {
+        "title": "四大丑女之朱雀篇.txt",
+        "filename": "四大丑女之朱雀篇.md",
+        "length": 115244,
+        "chapters": 1023
+      },
+      {
+        "title": "半妖怜.txt",
+        "filename": "半妖怜.md",
+        "length": 134029,
+        "chapters": 2
+      },
+      {
+        "title": "别有洞天（小蛮女钓美男后传）.TXT",
+        "filename": "别有洞天（小蛮女钓美男后传）.md",
+        "length": 12208,
+        "chapters": 4
+      },
+      {
+        "title": "末日预言_宁航一.txt",
+        "filename": "末日预言_宁航一.md",
+        "length": 171320,
+        "chapters": 56
+      },
+      {
+        "title": "荒村公寓_蔡骏.txt",
+        "filename": "荒村公寓_蔡骏.md",
+        "length": 92560,
+        "chapters": 0
+      },
+      {
+        "title": "《蛇君如墨》)作者：柳少白（完结）.txt",
+        "filename": "《蛇君如墨》)作者：柳少白（完结）.md",
+        "length": 98599,
+        "chapters": 1061
+      },
+      {
+        "title": "当局者迷_冯华.txt",
+        "filename": "当局者迷_冯华.md",
+        "length": 82952,
+        "chapters": 9
+      },
+      {
+        "title": "七根蜡烛_上官午夜_TXT小说天堂.txt",
+        "filename": "七根蜡烛_上官午夜_TXT小说天堂.md",
+        "length": 194828,
+        "chapters": 18
+      },
+      {
+        "title": "没有凶手的杀人夜_东野圭吾.txt",
+        "filename": "没有凶手的杀人夜_东野圭吾.md",
+        "length": 93169,
+        "chapters": 52
+      },
+      {
+        "title": "霸天1.txt",
+        "filename": "霸天1.md",
+        "length": 32662,
+        "chapters": 9
+      },
+      {
+        "title": "戏红尘.txt",
+        "filename": "戏红尘.md",
+        "length": 33246,
+        "chapters": 1991
+      },
+      {
+        "title": "萍小姐的主意_约瑟芬·铁伊.txt",
+        "filename": "萍小姐的主意_约瑟芬·铁伊.md",
+        "length": 91636,
+        "chapters": 17
+      },
+      {
+        "title": "迷离之花_冯华.txt",
+        "filename": "迷离之花_冯华.md",
+        "length": 90407,
+        "chapters": 0
+      },
+      {
+        "title": "蔡骏《沉没之鱼》.txt",
+        "filename": "蔡骏《沉没之鱼》.md",
+        "length": 126664,
+        "chapters": 300
+      },
+      {
+        "title": "错嫁良缘之洗冤录.txt",
+        "filename": "错嫁良缘之洗冤录.md",
+        "length": 104893,
+        "chapters": 2
+      },
+      {
+        "title": "《阴阳颠倒》.txt",
+        "filename": "《阴阳颠倒》.md",
+        "length": 121539,
+        "chapters": 9
+      },
+      {
+        "title": "兽妃.txt",
+        "filename": "兽妃.md",
+        "length": 312632,
+        "chapters": 1
+      },
+      {
+        "title": "冷心.txt",
+        "filename": "冷心.md",
+        "length": 5789,
+        "chapters": 4
+      },
+      {
+        "title": "夜半笛声_蔡骏.txt",
+        "filename": "夜半笛声_蔡骏.md",
+        "length": 92777,
+        "chapters": 25
+      },
+      {
+        "title": "恶意_东野圭吾.txt",
+        "filename": "恶意_东野圭吾.md",
+        "length": 93221,
+        "chapters": 0
+      },
+      {
+        "title": "逐云.txt",
+        "filename": "逐云.md",
+        "length": 106193,
+        "chapters": 1
+      },
+      {
+        "title": "魂牵沧海_西村寿行.txt",
+        "filename": "魂牵沧海_西村寿行.md",
+        "length": 90628,
+        "chapters": 140
+      },
+      {
+        "title": "藏地密码4_何马.txt",
+        "filename": "藏地密码4_何马.md",
+        "length": 88194,
+        "chapters": 8
+      },
+      {
+        "title": "藏地密码2_何马.txt",
+        "filename": "藏地密码2_何马.md",
+        "length": 87836,
+        "chapters": 5
+      },
+      {
+        "title": "风声雨声_张建伟.txt",
+        "filename": "风声雨声_张建伟.md",
+        "length": 311410,
+        "chapters": 58
+      },
+      {
+        "title": "过年_那多.txt",
+        "filename": "过年_那多.md",
+        "length": 69408,
+        "chapters": 0
+      },
+      {
+        "title": "绮梦璇玑.txt",
+        "filename": "绮梦璇玑.md",
+        "length": 231873,
+        "chapters": 4636
+      },
+      {
+        "title": "《四时花开》全集.txt",
+        "filename": "《四时花开》全集.md",
+        "length": 16796,
+        "chapters": 450
+      },
+      {
+        "title": "《天是红尘岸》TXT全集下载.txt",
+        "filename": "《天是红尘岸》TXT全集下载.md",
+        "length": 63451,
+        "chapters": 100
+      },
+      {
+        "title": "步轻尘.txt",
+        "filename": "步轻尘.md",
+        "length": 106210,
+        "chapters": 0
+      },
+      {
+        "title": "犯罪心理师_艾西恩_TXT小说天堂.txt",
+        "filename": "犯罪心理师_艾西恩_TXT小说天堂.md",
+        "length": 58327,
+        "chapters": 12
+      },
+      {
+        "title": "温暖的人皮_李西闽.txt",
+        "filename": "温暖的人皮_李西闽.md",
+        "length": 94033,
+        "chapters": 13
+      },
+      {
+        "title": "时间的女儿.txt",
+        "filename": "时间的女儿.md",
+        "length": 111595,
+        "chapters": 11
+      },
+      {
+        "title": "暗算-麦家.epub",
+        "filename": "暗算-麦家.md",
+        "length": 33427,
+        "chapters": 4
+      },
+      {
+        "title": "《偏偏娇纵》.txt",
+        "filename": "《偏偏娇纵》.md",
+        "length": 284686,
+        "chapters": 1
+      },
+      {
+        "title": "神秘的哭声_姜永育.txt",
+        "filename": "神秘的哭声_姜永育.md",
+        "length": 101993,
+        "chapters": 3
+      },
+      {
+        "title": "兰因璧月+番外5个.txt",
+        "filename": "兰因璧月+番外5个.md",
+        "length": 10329,
+        "chapters": 57
+      },
+      {
+        "title": "癌病船_西村寿行.txt",
+        "filename": "癌病船_西村寿行.md",
+        "length": 89375,
+        "chapters": 41
+      },
+      {
+        "title": "法兰柴思事件_约瑟芬·铁伊_TXT小说天堂.txt",
+        "filename": "法兰柴思事件_约瑟芬·铁伊_TXT小说天堂.md",
+        "length": 91137,
+        "chapters": 14
+      },
+      {
+        "title": "绝代天狐_派派小说.txt",
+        "filename": "绝代天狐_派派小说.md",
+        "length": 150624,
+        "chapters": 0
+      },
+      {
+        "title": "金瓯缺-徐兴业.epub",
+        "filename": "金瓯缺-徐兴业.md",
+        "length": 88563,
+        "chapters": 2
+      },
+      {
+        "title": "从善.txt",
+        "filename": "从善.md",
+        "length": 199398,
+        "chapters": 0
+      },
+      {
+        "title": "虫眼、禽眼、尸眼_鲁班尺_TXT小说天堂.txt",
+        "filename": "虫眼、禽眼、尸眼_鲁班尺_TXT小说天堂.md",
+        "length": 82349,
+        "chapters": 31
+      },
+      {
+        "title": "转世圣女.txt",
+        "filename": "转世圣女.md",
+        "length": 100436,
+        "chapters": 1119
+      },
+      {
+        "title": "三千宠爱在一身.txt",
+        "filename": "三千宠爱在一身.md",
+        "length": 248700,
+        "chapters": 1
+      },
+      {
+        "title": "天眼Ⅱ之觐天宝匣_景旭枫.txt",
+        "filename": "天眼Ⅱ之觐天宝匣_景旭枫.md",
+        "length": 88719,
+        "chapters": 12
+      },
+      {
+        "title": "解体之源_鲁浩川.txt",
+        "filename": "解体之源_鲁浩川.md",
+        "length": 91355,
+        "chapters": 23
+      },
+      {
+        "title": "【古言】邪王追妻：神医狂妃不好惹.txt",
+        "filename": "【古言】邪王追妻：神医狂妃不好惹.md",
+        "length": 214151,
+        "chapters": 1524
+      },
+      {
+        "title": "罪全书_蜘蛛.txt",
+        "filename": "罪全书_蜘蛛.md",
+        "length": 85682,
+        "chapters": 49
+      },
+      {
+        "title": "四签名_柯南·道尔_TXT小说天堂.txt",
+        "filename": "四签名_柯南·道尔_TXT小说天堂.md",
+        "length": 71647,
+        "chapters": 0
+      },
+      {
+        "title": "东方-魏巍.epub",
+        "filename": "东方-魏巍.md",
+        "length": 85002,
+        "chapters": 1
+      },
+      {
+        "title": "藏地密码1_何马_TXT小说天堂.txt",
+        "filename": "藏地密码1_何马_TXT小说天堂.md",
+        "length": 89263,
+        "chapters": 3
+      },
+      {
+        "title": "希区柯克悬念故事集_阿尔弗莱德·希区柯克.txt",
+        "filename": "希区柯克悬念故事集_阿尔弗莱德·希区柯克.md",
+        "length": 162691,
+        "chapters": 22
+      },
+      {
+        "title": "四时花开3.txt",
+        "filename": "四时花开3.md",
+        "length": 109144,
+        "chapters": 0
+      },
+      {
+        "title": "清明上河图密码_冶文彪.txt",
+        "filename": "清明上河图密码_冶文彪.md",
+        "length": 391389,
+        "chapters": 94
+      },
+      {
+        "title": "连心奇遇记.txt",
+        "filename": "连心奇遇记.md",
+        "length": 109513,
+        "chapters": 0
+      },
+      {
+        "title": "帝王秘葬_吴学华.txt",
+        "filename": "帝王秘葬_吴学华.md",
+        "length": 28263,
+        "chapters": 4
+      },
+      {
+        "title": "UFO未解之谜-蔡景仙主编_TXT小说天堂.txt",
+        "filename": "UFO未解之谜-蔡景仙主编_TXT小说天堂.md",
+        "length": 91266,
+        "chapters": 36
+      },
+      {
+        "title": "数字城堡_丹·布朗.txt",
+        "filename": "数字城堡_丹·布朗.md",
+        "length": 81266,
+        "chapters": 15
+      },
+      {
+        "title": "茶人三部曲-王旭烽.epub",
+        "filename": "茶人三部曲-王旭烽.md",
+        "length": 87078,
+        "chapters": 11
+      },
+      {
+        "title": "魔牙_西村寿行.txt",
+        "filename": "魔牙_西村寿行.md",
+        "length": 46590,
+        "chapters": 15
+      },
+      {
+        "title": "地狱的第19层_.txt",
+        "filename": "地狱的第19层_.md",
+        "length": 91204,
+        "chapters": 12
+      },
+      {
+        "title": "爱神的黑白羽翼3.txt",
+        "filename": "爱神的黑白羽翼3.md",
+        "length": 237667,
+        "chapters": 2
+      },
+      {
+        "title": "尘埃落定（纪念版）-阿来.epub",
+        "filename": "尘埃落定（纪念版）-阿来.md",
+        "length": 87293,
+        "chapters": 18
+      },
+      {
+        "title": "人皮信封_狼七.txt",
+        "filename": "人皮信封_狼七.md",
+        "length": 89659,
+        "chapters": 17
+      },
+      {
+        "title": "妻心如故》作者：雾矢翊.txt",
+        "filename": "妻心如故》作者：雾矢翊.md",
+        "length": 275706,
+        "chapters": 0
+      },
+      {
+        "title": "白门柳-刘斯奋.epub",
+        "filename": "白门柳-刘斯奋.md",
+        "length": 87526,
+        "chapters": 1
+      },
+      {
+        "title": "午夜凶铃_铃木光司.txt",
+        "filename": "午夜凶铃_铃木光司.md",
+        "length": 92164,
+        "chapters": 22
+      },
+      {
+        "title": "谋略大师_西德尼·谢尔顿.txt",
+        "filename": "谋略大师_西德尼·谢尔顿.md",
+        "length": 32530,
+        "chapters": 6
+      },
+      {
+        "title": "我不要做女王.txt",
+        "filename": "我不要做女王.md",
+        "length": 23770,
+        "chapters": 200
+      },
+      {
+        "title": "七根蜡烛_上官午夜.txt",
+        "filename": "七根蜡烛_上官午夜.md",
+        "length": 194820,
+        "chapters": 18
+      },
+      {
+        "title": "江山如画.TXT",
+        "filename": "江山如画.md",
+        "length": 146202,
+        "chapters": 0
+      },
+      {
+        "title": "金匮六壬盘：决战曹操疑冢_圣者晨雷-高云一方.txt",
+        "filename": "金匮六壬盘：决战曹操疑冢_圣者晨雷-高云一方.md",
+        "length": 90679,
+        "chapters": 0
+      },
+      {
+        "title": "第三张脸_上官午夜.txt",
+        "filename": "第三张脸_上官午夜.md",
+        "length": 88482,
+        "chapters": 39
+      },
+      {
+        "title": "藏地密码8_何马.txt",
+        "filename": "藏地密码8_何马.md",
+        "length": 89737,
+        "chapters": 5
+      },
+      {
+        "title": "藏戒_诸葛宇聪.txt",
+        "filename": "藏戒_诸葛宇聪.md",
+        "length": 89570,
+        "chapters": 24
+      },
+      {
+        "title": "碎便士_艾西恩_TXT小说天堂.txt",
+        "filename": "碎便士_艾西恩_TXT小说天堂.md",
+        "length": 93966,
+        "chapters": 18
+      },
+      {
+        "title": "达芬奇密码_丹·布朗_TXT小说天堂.txt",
+        "filename": "达芬奇密码_丹·布朗_TXT小说天堂.md",
+        "length": 91719,
+        "chapters": 37
+      },
+      {
+        "title": "千岁兰_文泽尔.txt",
+        "filename": "千岁兰_文泽尔.md",
+        "length": 96366,
+        "chapters": 1
+      },
+      {
+        "title": "暗黑神探_何马_TXT小说天堂.txt",
+        "filename": "暗黑神探_何马_TXT小说天堂.md",
+        "length": 374568,
+        "chapters": 30
+      },
+      {
+        "title": "《长官爱人》完结+番外.txt",
+        "filename": "《长官爱人》完结+番外.md",
+        "length": 68421,
+        "chapters": 0
+      },
+      {
+        "title": "裸冬_西村寿行.txt",
+        "filename": "裸冬_西村寿行.md",
+        "length": 86489,
+        "chapters": 3
+      },
+      {
+        "title": "十里红妆.txt",
+        "filename": "十里红妆.md",
+        "length": 72420,
+        "chapters": 0
+      },
+      {
+        "title": "云姬传奇.txt",
+        "filename": "云姬传奇.md",
+        "length": 66425,
+        "chapters": 0
+      },
+      {
+        "title": "将军吟-莫应丰.epub",
+        "filename": "将军吟-莫应丰.md",
+        "length": 88840,
+        "chapters": 11
+      },
+      {
+        "title": "藏地密码3_何马.txt",
+        "filename": "藏地密码3_何马.md",
+        "length": 87786,
+        "chapters": 1
+      },
+      {
+        "title": "猎人者_成刚.txt",
+        "filename": "猎人者_成刚.md",
+        "length": 91425,
+        "chapters": 17
+      },
+      {
+        "title": "雪夜紫影.txt",
+        "filename": "雪夜紫影.md",
+        "length": 92074,
+        "chapters": 0
+      },
+      {
+        "title": "像蔷薇一样锋利_江雨朵.txt",
+        "filename": "像蔷薇一样锋利_江雨朵.md",
+        "length": 89168,
+        "chapters": 0
+      },
+      {
+        "title": "黑点漩涡_松本清张.txt",
+        "filename": "黑点漩涡_松本清张.md",
+        "length": 91237,
+        "chapters": 19
+      },
+      {
+        "title": "虫眼、禽眼、尸眼_鲁班尺.txt",
+        "filename": "虫眼、禽眼、尸眼_鲁班尺.md",
+        "length": 143898,
+        "chapters": 51
+      },
+      {
+        "title": "九岁小妖后卷二.txt",
+        "filename": "九岁小妖后卷二.md",
+        "length": 98375,
+        "chapters": 1
+      },
+      {
+        "title": "左岸纯情，右岸媚色.txt",
+        "filename": "左岸纯情，右岸媚色.md",
+        "length": 34638,
+        "chapters": 1020
+      },
+      {
+        "title": "麦城谜案_刘嘉呓.txt",
+        "filename": "麦城谜案_刘嘉呓.md",
+        "length": 92148,
+        "chapters": 24
+      },
+      {
+        "title": "闪苍_艾西恩.txt",
+        "filename": "闪苍_艾西恩.md",
+        "length": 38833,
+        "chapters": 9
+      },
+      {
+        "title": "神探韩峰：幕后黑手_何马_TXT小说天堂.txt",
+        "filename": "神探韩峰：幕后黑手_何马_TXT小说天堂.md",
+        "length": 70176,
+        "chapters": 6
+      },
+      {
+        "title": "冷情王爷的隔世弃妃.txt",
+        "filename": "冷情王爷的隔世弃妃.md",
+        "length": 135643,
+        "chapters": 0
+      },
+      {
+        "title": "藏地密码4_何马_TXT小说天堂.txt",
+        "filename": "藏地密码4_何马_TXT小说天堂.md",
+        "length": 89187,
+        "chapters": 6
+      },
+      {
+        "title": "四时花开.txt",
+        "filename": "四时花开.md",
+        "length": 15249,
+        "chapters": 58
+      },
+      {
+        "title": "湘西异事之十二悬门_陈凯.txt",
+        "filename": "湘西异事之十二悬门_陈凯.md",
+        "length": 84686,
+        "chapters": 24
+      },
+      {
+        "title": "犯罪心理师_艾西恩.txt",
+        "filename": "犯罪心理师_艾西恩.md",
+        "length": 77424,
+        "chapters": 16
+      },
+      {
+        "title": "藏地密码7_何马_TXT小说天堂.txt",
+        "filename": "藏地密码7_何马_TXT小说天堂.md",
+        "length": 89712,
+        "chapters": 3
+      },
+      {
+        "title": "平面狗_乙一.txt",
+        "filename": "平面狗_乙一.md",
+        "length": 54110,
+        "chapters": 41
+      },
+      {
+        "title": "魔炼大陆游学记.txt",
+        "filename": "魔炼大陆游学记.md",
+        "length": 246922,
+        "chapters": 10
+      },
+      {
+        "title": "如影随行_冯华.txt",
+        "filename": "如影随行_冯华.md",
+        "length": 90636,
+        "chapters": 36
+      },
+      {
+        "title": "六指_鲁班尺.txt",
+        "filename": "六指_鲁班尺.md",
+        "length": 14385,
+        "chapters": 6
+      },
+      {
+        "title": "王子安探险系列_戚小双.txt",
+        "filename": "王子安探险系列_戚小双.md",
+        "length": 89315,
+        "chapters": 17
+      },
+      {
+        "title": "蟹多多《帅哥通缉令（一女N男）》.txt",
+        "filename": "蟹多多《帅哥通缉令（一女N男）》.md",
+        "length": 34557,
+        "chapters": 2102
+      },
+      {
+        "title": "《西边雨》五月艾草.txt",
+        "filename": "《西边雨》五月艾草.md",
+        "length": 108805,
+        "chapters": 36
+      },
+      {
+        "title": "罪妃.txt",
+        "filename": "罪妃.md",
+        "length": 248195,
+        "chapters": 0
+      },
+      {
+        "title": "浴血罗霄-萧克.epub",
+        "filename": "浴血罗霄-萧克.md",
+        "length": 86188,
+        "chapters": 17
+      },
+      {
+        "title": "秘密使命之北美搏杀_信周.txt",
+        "filename": "秘密使命之北美搏杀_信周.md",
+        "length": 90137,
+        "chapters": 8
+      },
+      {
+        "title": "幸福不脱靶.txt",
+        "filename": "幸福不脱靶.md",
+        "length": 86129,
+        "chapters": 0
+      },
+      {
+        "title": "失去的世界_柯南·道尔.txt",
+        "filename": "失去的世界_柯南·道尔.md",
+        "length": 73320,
+        "chapters": 0
+      },
+      {
+        "title": "太平（出书版）.txt",
+        "filename": "太平（出书版）.md",
+        "length": 89443,
+        "chapters": 0
+      },
+      {
+        "title": "改写人生.txt",
+        "filename": "改写人生.md",
+        "length": 33427,
+        "chapters": 6
+      },
+      {
+        "title": "我家的老男人_全本(完整版)_派派小说.txt",
+        "filename": "我家的老男人_全本(完整版)_派派小说.md",
+        "length": 75557,
+        "chapters": 1
+      },
+      {
+        "title": "神探韩峰：幕后黑手_何马.txt",
+        "filename": "神探韩峰：幕后黑手_何马.md",
+        "length": 69887,
+        "chapters": 7
+      },
+      {
+        "title": "道陵尸经_三天四夜.txt",
+        "filename": "道陵尸经_三天四夜.md",
+        "length": 79586,
+        "chapters": 29
+      },
+      {
+        "title": "锦绣吾祐.txt",
+        "filename": "锦绣吾祐.md",
+        "length": 159074,
+        "chapters": 0
+      },
+      {
+        "title": "野性的证明_森村诚一.txt",
+        "filename": "野性的证明_森村诚一.md",
+        "length": 84725,
+        "chapters": 4
+      },
+      {
+        "title": "失踪.txt",
+        "filename": "失踪.md",
+        "length": 30209,
+        "chapters": 6
+      },
+      {
+        "title": "老牛降嫩草.txt",
+        "filename": "老牛降嫩草.md",
+        "length": 111989,
+        "chapters": 0
+      },
+      {
+        "title": "执手江山（笑倾权）.txt",
+        "filename": "执手江山（笑倾权）.md",
+        "length": 196667,
+        "chapters": 0
+      },
+      {
+        "title": "日薄寒空敛红袖.txt",
+        "filename": "日薄寒空敛红袖.md",
+        "length": 661015,
+        "chapters": 4886
+      },
+      {
+        "title": "我在新郑当守陵人_阴阳眼.txt",
+        "filename": "我在新郑当守陵人_阴阳眼.md",
+        "length": 86521,
+        "chapters": 14
+      },
+      {
+        "title": "藏地密码6_何马_TXT小说天堂.txt",
+        "filename": "藏地密码6_何马_TXT小说天堂.md",
+        "length": 91940,
+        "chapters": 16
+      },
+      {
+        "title": "放学后_东野圭吾.txt",
+        "filename": "放学后_东野圭吾.md",
+        "length": 96398,
+        "chapters": 2
+      },
+      {
+        "title": "圣安学园美男部.txt",
+        "filename": "圣安学园美男部.md",
+        "length": 93147,
+        "chapters": 6
+      },
+      {
+        "title": "返祖_那多.txt",
+        "filename": "返祖_那多.md",
+        "length": 93058,
+        "chapters": 0
+      },
+      {
+        "title": "黑棺妖楼_南海僵人.txt",
+        "filename": "黑棺妖楼_南海僵人.md",
+        "length": 88135,
+        "chapters": 31
+      },
+      {
+        "title": "大宋法证先锋.txt",
+        "filename": "大宋法证先锋.md",
+        "length": 294609,
+        "chapters": 4569
+      },
+      {
+        "title": "天机二·罗刹之国.txt",
+        "filename": "天机二·罗刹之国.md",
+        "length": 78546,
+        "chapters": 13
+      },
+      {
+        "title": "犯罪心理档案1_刚雪印.txt",
+        "filename": "犯罪心理档案1_刚雪印.md",
+        "length": 88458,
+        "chapters": 22
+      },
+      {
+        "title": "犯罪心理师之替身_艾西.txt",
+        "filename": "犯罪心理师之替身_艾西.md",
+        "length": 160607,
+        "chapters": 5
+      },
+      {
+        "title": "《我的灵魂在古代》.txt",
+        "filename": "《我的灵魂在古代》.md",
+        "length": 65485,
+        "chapters": 0
+      },
+      {
+        "title": "少年丞相(书).txt",
+        "filename": "少年丞相(书).md",
+        "length": 108612,
+        "chapters": 0
+      },
+      {
+        "title": "面具馆_艾西恩.txt",
+        "filename": "面具馆_艾西恩.md",
+        "length": 83759,
+        "chapters": 0
+      },
+      {
+        "title": "谁要当你哥哥.txt",
+        "filename": "谁要当你哥哥.md",
+        "length": 103545,
+        "chapters": 1
+      },
+      {
+        "title": "隔墙有眼.txt",
+        "filename": "隔墙有眼.md",
+        "length": 87071,
+        "chapters": 2
+      },
+      {
+        "title": "【虐恋】林深又见鹿.txt",
+        "filename": "【虐恋】林深又见鹿.md",
+        "length": 125106,
+        "chapters": 4442
+      },
+      {
+        "title": "千年祝祭.txt",
+        "filename": "千年祝祭.md",
+        "length": 45362,
+        "chapters": 11
+      },
+      {
+        "title": "缚石.txt",
+        "filename": "缚石.md",
+        "length": 92675,
+        "chapters": 15
+      },
+      {
+        "title": "嫌疑犯X的献身_东野圭吾.txt",
+        "filename": "嫌疑犯X的献身_东野圭吾.md",
+        "length": 91365,
+        "chapters": 13
+      },
+      {
+        "title": "一品闺秀.txt",
+        "filename": "一品闺秀.md",
+        "length": 167635,
+        "chapters": 4769
+      },
+      {
+        "title": "《长公主只想出嫁》三日成晶.txt",
+        "filename": "《长公主只想出嫁》三日成晶.md",
+        "length": 82019,
+        "chapters": 0
+      },
+      {
+        "title": "嫣然一笑.txt",
+        "filename": "嫣然一笑.md",
+        "length": 101689,
+        "chapters": 1
+      },
+      {
+        "title": "凤逆九天.txt",
+        "filename": "凤逆九天.md",
+        "length": 112324,
+        "chapters": 0
+      },
+      {
+        "title": "尘沙下的传奇.txt",
+        "filename": "尘沙下的传奇.md",
+        "length": 137917,
+        "chapters": 4
+      },
+      {
+        "title": "我是女巫.txt",
+        "filename": "我是女巫.md",
+        "length": 52703,
+        "chapters": 0
+      },
+      {
+        "title": "亿万千金带球跑.txt",
+        "filename": "亿万千金带球跑.md",
+        "length": 78177,
+        "chapters": 0
+      },
+      {
+        "title": "神的密码_那多.txt",
+        "filename": "神的密码_那多.md",
+        "length": 149105,
+        "chapters": 0
+      },
+      {
+        "title": "听说爱会来.txt",
+        "filename": "听说爱会来.md",
+        "length": 88392,
+        "chapters": 0
+      },
+      {
+        "title": "人性的证明_森村诚一.txt",
+        "filename": "人性的证明_森村诚一.md",
+        "length": 92167,
+        "chapters": 11
+      },
+      {
+        "title": "第八日的蝉_角田光代.txt",
+        "filename": "第八日的蝉_角田光代.md",
+        "length": 89147,
+        "chapters": 0
+      },
+      {
+        "title": "骗局_丹·布朗_TXT小说天堂.txt",
+        "filename": "骗局_丹·布朗_TXT小说天堂.md",
+        "length": 89899,
+        "chapters": 11
+      },
+      {
+        "title": "天眼寺_朗芳.txt",
+        "filename": "天眼寺_朗芳.md",
+        "length": 91842,
+        "chapters": 20
+      },
+      {
+        "title": "博来·法拉先生_约瑟芬·铁伊.txt",
+        "filename": "博来·法拉先生_约瑟芬·铁伊.md",
+        "length": 91065,
+        "chapters": 33
+      },
+      {
+        "title": "控天.txt",
+        "filename": "控天.md",
+        "length": 76284,
+        "chapters": 1
+      },
+      {
+        "title": "《缘起红线》之《好女N嫁》.TXT",
+        "filename": "《缘起红线》之《好女N嫁》.md",
+        "length": 60149,
+        "chapters": 2
+      },
+      {
+        "title": "沉默的羔羊_托马斯·哈里斯.txt",
+        "filename": "沉默的羔羊_托马斯·哈里斯.md",
+        "length": 88408,
+        "chapters": 0
+      },
+      {
+        "title": "【宠文】穿成女配心慌慌.txt",
+        "filename": "【宠文】穿成女配心慌慌.md",
+        "length": 181168,
+        "chapters": 8092
+      },
+      {
+        "title": "特工系列：暴君的间谍肥后.txt",
+        "filename": "特工系列：暴君的间谍肥后.md",
+        "length": 236429,
+        "chapters": 4
+      },
+      {
+        "title": "萍小姐的主意_约瑟芬·铁伊_TXT小说天堂.txt",
+        "filename": "萍小姐的主意_约瑟芬·铁伊_TXT小说天堂.md",
+        "length": 89389,
+        "chapters": 14
+      },
+      {
+        "title": "醉玲珑.txt",
+        "filename": "醉玲珑.md",
+        "length": 211206,
+        "chapters": 4
+      },
+      {
+        "title": "人间【下卷全集】包括第四章端木良以后.txt",
+        "filename": "人间【下卷全集】包括第四章端木良以后.md",
+        "length": 110034,
+        "chapters": 2
+      },
+      {
+        "title": "最后一张录取通知书_邢菜菜.txt",
+        "filename": "最后一张录取通知书_邢菜菜.md",
+        "length": 89429,
+        "chapters": 19
+      },
+      {
+        "title": "王牌宠妃.txt",
+        "filename": "王牌宠妃.md",
+        "length": 147951,
+        "chapters": 30
+      },
+      {
+        "title": "猫眼_蔡骏.txt",
+        "filename": "猫眼_蔡骏.md",
+        "length": 53180,
+        "chapters": 29
+      },
+      {
+        "title": "【强推】《独宠旧爱·陆少的秘密恋人》作者：云檀.txt",
+        "filename": "【强推】《独宠旧爱·陆少的秘密恋人》作者：云檀.md",
+        "length": 248490,
+        "chapters": 2
+      },
+      {
+        "title": "耶稣泥板圣经之谜_朱莉娅·纳瓦罗.txt",
+        "filename": "耶稣泥板圣经之谜_朱莉娅·纳瓦罗.md",
+        "length": 87299,
+        "chapters": 0
+      },
+      {
+        "title": "神秘王爷的爱妃.txt",
+        "filename": "神秘王爷的爱妃.md",
+        "length": 467311,
+        "chapters": 0
+      },
+      {
+        "title": "画像_雷米.txt",
+        "filename": "画像_雷米.md",
+        "length": 220591,
+        "chapters": 29
+      },
+      {
+        "title": "铿锵红颜之风行天下落落月色.txt",
+        "filename": "铿锵红颜之风行天下落落月色.md",
+        "length": 84318,
+        "chapters": 120
+      },
+      {
+        "title": "荒宅新娘_老钟.txt",
+        "filename": "荒宅新娘_老钟.md",
+        "length": 88792,
+        "chapters": 42
+      },
+      {
+        "title": "喋血替身1941_冷娃.txt",
+        "filename": "喋血替身1941_冷娃.md",
+        "length": 20042,
+        "chapters": 12
+      },
+      {
+        "title": "第二个太阳-刘白羽.epub",
+        "filename": "第二个太阳-刘白羽.md",
+        "length": 85116,
+        "chapters": 27
+      },
+      {
+        "title": "午夜凶铃4：《贞相大白》.TXT",
+        "filename": "午夜凶铃4：《贞相大白》.md",
+        "length": 89239,
+        "chapters": 3186
+      },
+      {
+        "title": "秘密使命之赌城争雄_信周.txt",
+        "filename": "秘密使命之赌城争雄_信周.md",
+        "length": 492660,
+        "chapters": 97
+      },
+      {
+        "title": "阴险女大传.txt",
+        "filename": "阴险女大传.md",
+        "length": 74684,
+        "chapters": 0
+      },
+      {
+        "title": "冥王的小妖后_派派小说.txt",
+        "filename": "冥王的小妖后_派派小说.md",
+        "length": 87106,
+        "chapters": 0
+      },
+      {
+        "title": "【女强】快穿女主她持美行凶.txt",
+        "filename": "【女强】快穿女主她持美行凶.md",
+        "length": 63084,
+        "chapters": 153
+      },
+      {
+        "title": "门上血字_谢飞.txt",
+        "filename": "门上血字_谢飞.md",
+        "length": 89129,
+        "chapters": 0
+      },
+      {
+        "title": "《奇洛李维斯回信》作者：冷酷荔枝.txt",
+        "filename": "《奇洛李维斯回信》作者：冷酷荔枝.md",
+        "length": 5404,
+        "chapters": 35
+      },
+      {
+        "title": "天鹅·光源_恒殊.txt",
+        "filename": "天鹅·光源_恒殊.md",
+        "length": 42670,
+        "chapters": 14
+      },
+      {
+        "title": "翻手男覆手女.txt",
+        "filename": "翻手男覆手女.md",
+        "length": 203882,
+        "chapters": 1000
+      },
+      {
+        "title": "午夜凶铃1：《七夜怪谈》.txt",
+        "filename": "午夜凶铃1：《七夜怪谈》.md",
+        "length": 90019,
+        "chapters": 1026
+      },
+      {
+        "title": "镜花水月.txt",
+        "filename": "镜花水月.md",
+        "length": 115025,
+        "chapters": 1
+      },
+      {
+        "title": "《末世穿六零》作者：湖涂.txt",
+        "filename": "《末世穿六零》作者：湖涂.md",
+        "length": 108575,
+        "chapters": 2094
+      },
+      {
+        "title": "初初相念.txt",
+        "filename": "初初相念.md",
+        "length": 108917,
+        "chapters": 2
+      },
+      {
+        "title": "藏地密码1_何马.txt",
+        "filename": "藏地密码1_何马.md",
+        "length": 88574,
+        "chapters": 4
+      },
+      {
+        "title": "老尸客栈_鲁班尺_TXT小说天堂.txt",
+        "filename": "老尸客栈_鲁班尺_TXT小说天堂.md",
+        "length": 65565,
+        "chapters": 23
+      },
+      {
+        "title": "谈情说案.txt",
+        "filename": "谈情说案.md",
+        "length": 107703,
+        "chapters": 21
+      },
+      {
+        "title": "天雪香铺.txt",
+        "filename": "天雪香铺.md",
+        "length": 100928,
+        "chapters": 0
+      },
+      {
+        "title": "无字-张洁.epub",
+        "filename": "无字-张洁.md",
+        "length": 74293,
+        "chapters": 2
+      },
+      {
+        "title": "奸商莫菲菲.txt",
+        "filename": "奸商莫菲菲.md",
+        "length": 583994,
+        "chapters": 15
+      },
+      {
+        "title": "《失心欲女》全文.txt.txt",
+        "filename": "《失心欲女》全文.txt.md",
+        "length": 117517,
+        "chapters": 8
+      },
+      {
+        "title": "失控_张震.txt",
+        "filename": "失控_张震.md",
+        "length": 67293,
+        "chapters": 0
+      },
+      {
+        "title": "狐狸传奇.txt",
+        "filename": "狐狸传奇.md",
+        "length": 314755,
+        "chapters": 0
+      },
+      {
+        "title": "零的焦点_.txt",
+        "filename": "零的焦点_.md",
+        "length": 80859,
+        "chapters": 0
+      },
+      {
+        "title": "美男,要不要？.txt",
+        "filename": "美男,要不要？.md",
+        "length": 151383,
+        "chapters": 4
+      },
+      {
+        "title": "鱼钩上的尸体_野兵.txt",
+        "filename": "鱼钩上的尸体_野兵.md",
+        "length": 95682,
+        "chapters": 28
+      },
+      {
+        "title": "《天机》全集四季.txt",
+        "filename": "《天机》全集四季.md",
+        "length": 45620,
+        "chapters": 8
+      },
+      {
+        "title": "绣花王爷：杀手王妃不好惹.txt",
+        "filename": "绣花王爷：杀手王妃不好惹.md",
+        "length": 151267,
+        "chapters": 10
+      },
+      {
+        "title": "茗剑传奇.txt",
+        "filename": "茗剑传奇.md",
+        "length": 158238,
+        "chapters": 4
+      },
+      {
+        "title": "叛逆性骚扰_迈克尔·克莱顿.txt",
+        "filename": "叛逆性骚扰_迈克尔·克莱顿.md",
+        "length": 238127,
+        "chapters": 7
+      },
+      {
+        "title": "越世风云.txt",
+        "filename": "越世风云.md",
+        "length": 448758,
+        "chapters": 14
+      },
+      {
+        "title": "龙纹身的女孩_史迪格·拉森.txt",
+        "filename": "龙纹身的女孩_史迪格·拉森.md",
+        "length": 97369,
+        "chapters": 6
+      },
+      {
+        "title": "辽东轶闻手记：纸人割头颅_叶遁.txt",
+        "filename": "辽东轶闻手记：纸人割头颅_叶遁.md",
+        "length": 86542,
+        "chapters": 7
+      },
+      {
+        "title": "藏地密码7_何马.txt",
+        "filename": "藏地密码7_何马.md",
+        "length": 290129,
+        "chapters": 3
+      },
+      {
+        "title": "盗听狐说_小号鲨鱼.txt",
+        "filename": "盗听狐说_小号鲨鱼.md",
+        "length": 246316,
+        "chapters": 0
+      },
+      {
+        "title": "杏烧红_松鹰.txt",
+        "filename": "杏烧红_松鹰.md",
+        "length": 86891,
+        "chapters": 19
+      },
+      {
+        "title": "门楣.txt",
+        "filename": "门楣.md",
+        "length": 91026,
+        "chapters": 8
+      },
+      {
+        "title": "植物_艾西恩_TXT小说天堂.txt",
+        "filename": "植物_艾西恩_TXT小说天堂.md",
+        "length": 14324,
+        "chapters": 4
+      },
+      {
+        "title": "悬疑志（4）_蔡骏_TXT小说天堂.txt",
+        "filename": "悬疑志（4）_蔡骏_TXT小说天堂.md",
+        "length": 88457,
+        "chapters": 0
+      },
+      {
+        "title": "亡者归来_詹森·莫特.txt",
+        "filename": "亡者归来_詹森·莫特.md",
+        "length": 92421,
+        "chapters": 32
+      },
+      {
+        "title": "大猩猩杀人案_厄尔·斯坦利·加德纳.txt",
+        "filename": "大猩猩杀人案_厄尔·斯坦利·加德纳.md",
+        "length": 94347,
+        "chapters": 15
+      },
+      {
+        "title": "达芬奇密码_丹·布朗.txt",
+        "filename": "达芬奇密码_丹·布朗.md",
+        "length": 283378,
+        "chapters": 108
+      },
+      {
+        "title": "巴斯克维尔的猎犬_柯南·道尔.txt",
+        "filename": "巴斯克维尔的猎犬_柯南·道尔.md",
+        "length": 91903,
+        "chapters": 13
+      },
+      {
+        "title": "耳语娃娃_艾西恩_TXT小说天堂.txt",
+        "filename": "耳语娃娃_艾西恩_TXT小说天堂.md",
+        "length": 92142,
+        "chapters": 57
+      },
+      {
+        "title": "《王妃贤良淑德》作者：酸奶蛋糕.txt",
+        "filename": "《王妃贤良淑德》作者：酸奶蛋糕.md",
+        "length": 190362,
+        "chapters": 1
+      },
+      {
+        "title": "藏地密码5_何马_TXT小说天堂.txt",
+        "filename": "藏地密码5_何马_TXT小说天堂.md",
+        "length": 88905,
+        "chapters": 1
+      },
+      {
+        "title": "【女主小说】独家鉴宝师.txt",
+        "filename": "【女主小说】独家鉴宝师.md",
+        "length": 146396,
+        "chapters": 0
+      },
+      {
+        "title": "指点江山拥美男.txt",
+        "filename": "指点江山拥美男.md",
+        "length": 124866,
+        "chapters": 0
+      },
+      {
+        "title": "失落的秘符_丹·布朗.txt",
+        "filename": "失落的秘符_丹·布朗.md",
+        "length": 92733,
+        "chapters": 35
+      },
+      {
+        "title": "纸婴_那多.txt",
+        "filename": "纸婴_那多.md",
+        "length": 110731,
+        "chapters": 20
+      },
+      {
+        "title": "耳语娃娃(浮墙)_艾西恩.txt",
+        "filename": "耳语娃娃(浮墙)_艾西恩.md",
+        "length": 96594,
+        "chapters": 27
+      },
+      {
+        "title": "暗影三十八万_那多.txt",
+        "filename": "暗影三十八万_那多.md",
+        "length": 147109,
+        "chapters": 0
+      },
+      {
+        "title": "错嫁之盛世王妃.txt",
+        "filename": "错嫁之盛世王妃.md",
+        "length": 206661,
+        "chapters": 4138
+      },
+      {
+        "title": "神探韩峰：高智商犯罪_何马.txt",
+        "filename": "神探韩峰：高智商犯罪_何马.md",
+        "length": 44706,
+        "chapters": 11
+      },
+      {
+        "title": "男人的好（一般）_派派小说.txt",
+        "filename": "男人的好（一般）_派派小说.md",
+        "length": 110761,
+        "chapters": 1
+      },
+      {
+        "title": "《战神王妃》by_风行烈_[完结]-有个论坛.txt",
+        "filename": "《战神王妃》by_风行烈_[完结]-有个论坛.md",
+        "length": 84692,
+        "chapters": 2
+      },
+      {
+        "title": "推拿-毕飞宇.epub",
+        "filename": "推拿-毕飞宇.md",
+        "length": 88618,
+        "chapters": 8
+      },
+      {
+        "title": "爱上佛女.txt",
+        "filename": "爱上佛女.md",
+        "length": 12013,
+        "chapters": 6
+      },
+      {
+        "title": "寻案迷踪.txt",
+        "filename": "寻案迷踪.md",
+        "length": 105271,
+        "chapters": 0
+      },
+      {
+        "title": "第三张脸_上官午夜_TXT小说天堂.txt",
+        "filename": "第三张脸_上官午夜_TXT小说天堂.md",
+        "length": 90237,
+        "chapters": 53
+      },
+      {
+        "title": "太平.TXT",
+        "filename": "太平.md",
+        "length": 61800,
+        "chapters": 0
+      },
+      {
+        "title": "藏地密码6_何马.txt",
+        "filename": "藏地密码6_何马.md",
+        "length": 91560,
+        "chapters": 17
+      },
+      {
+        "title": "都市风流-孙力、余小惠.epub",
+        "filename": "都市风流-孙力、余小惠.md",
+        "length": 50059,
+        "chapters": 4
+      },
+      {
+        "title": "历史学家_伊丽莎白·科斯托娃.txt",
+        "filename": "历史学家_伊丽莎白·科斯托娃.md",
+        "length": 92902,
+        "chapters": 32
+      },
+      {
+        "title": "惊天奇案_何马.txt",
+        "filename": "惊天奇案_何马.md",
+        "length": 82883,
+        "chapters": 0
+      },
+      {
+        "title": "巴斯克维尔的猎犬_柯南·道尔_TXT小说天堂.txt",
+        "filename": "巴斯克维尔的猎犬_柯南·道尔_TXT小说天堂.md",
+        "length": 91882,
+        "chapters": 13
+      },
+      {
+        "title": "收割(在中国)_艾西恩_TXT小说天堂.txt",
+        "filename": "收割(在中国)_艾西恩_TXT小说天堂.md",
+        "length": 178935,
+        "chapters": 22
+      },
+      {
+        "title": "燕归来.txt",
+        "filename": "燕归来.md",
+        "length": 188028,
+        "chapters": 0
+      },
+      {
+        "title": "大漠苍狼-绝地勘探_.txt",
+        "filename": "大漠苍狼-绝地勘探_.md",
+        "length": 94300,
+        "chapters": 0
+      },
+      {
+        "title": "四签名_柯南·道尔.txt",
+        "filename": "四签名_柯南·道尔.md",
+        "length": 72006,
+        "chapters": 0
+      },
+      {
+        "title": "小蛮女钓美男.txt",
+        "filename": "小蛮女钓美男.md",
+        "length": 70214,
+        "chapters": 0
+      },
+      {
+        "title": "激战女神.txt",
+        "filename": "激战女神.md",
+        "length": 1908987,
+        "chapters": 45
+      },
+      {
+        "title": "变身_东野圭吾.txt",
+        "filename": "变身_东野圭吾.md",
+        "length": 92904,
+        "chapters": 50
+      },
+      {
+        "title": "惊魂六计之笔仙_佚名.txt",
+        "filename": "惊魂六计之笔仙_佚名.md",
+        "length": 92606,
+        "chapters": 0
+      },
+      {
+        "title": "绝代天狐.txt",
+        "filename": "绝代天狐.md",
+        "length": 162362,
+        "chapters": 0
+      },
+      {
+        "title": "不诉离殇.txt",
+        "filename": "不诉离殇.md",
+        "length": 62949,
+        "chapters": 0
+      },
+      {
+        "title": "吸血天使街_云霓.txt",
+        "filename": "吸血天使街_云霓.md",
+        "length": 88120,
+        "chapters": 19
+      },
+      {
+        "title": "妖孽,我来了.txt",
+        "filename": "妖孽,我来了.md",
+        "length": 214577,
+        "chapters": 4
+      },
+      {
+        "title": "数字城堡_丹·布朗_TXT小说天堂.txt",
+        "filename": "数字城堡_丹·布朗_TXT小说天堂.md",
+        "length": 69843,
+        "chapters": 14
+      },
+      {
+        "title": "【女主小说】奋斗在民国.txt",
+        "filename": "【女主小说】奋斗在民国.md",
+        "length": 135561,
+        "chapters": 1
+      },
+      {
+        "title": "【破镜重圆】致陆太太.txt",
+        "filename": "【破镜重圆】致陆太太.md",
+        "length": 70818,
+        "chapters": 0
+      },
+      {
+        "title": "蝴蝶公墓.txt",
+        "filename": "蝴蝶公墓.md",
+        "length": 125668,
+        "chapters": 0
+      },
+      {
+        "title": "排队的人_约瑟芬·铁伊.txt",
+        "filename": "排队的人_约瑟芬·铁伊.md",
+        "length": 88867,
+        "chapters": 13
+      },
+      {
+        "title": "人间_蔡骏.txt",
+        "filename": "人间_蔡骏.md",
+        "length": 392625,
+        "chapters": 28
+      },
+      {
+        "title": "幽冥怪谈之夜话_宁航一.txt",
+        "filename": "幽冥怪谈之夜话_宁航一.md",
+        "length": 92903,
+        "chapters": 27
+      },
+      {
+        "title": "收割(在中国)_艾西恩.txt",
+        "filename": "收割(在中国)_艾西恩.md",
+        "length": 92279,
+        "chapters": 21
+      },
+      {
+        "title": "埃及考古学家_亚瑟·菲利普.txt",
+        "filename": "埃及考古学家_亚瑟·菲利普.md",
+        "length": 63829,
+        "chapters": 0
+      },
+      {
+        "title": "失去的世界_柯南·道尔_TXT小说天堂.txt",
+        "filename": "失去的世界_柯南·道尔_TXT小说天堂.md",
+        "length": 73458,
+        "chapters": 0
+      },
+      {
+        "title": "有花堪折直须折txt全本.txt",
+        "filename": "有花堪折直须折txt全本.md",
+        "length": 81048,
+        "chapters": 0
+      },
+      {
+        "title": "北之星冠.txt",
+        "filename": "北之星冠.md",
+        "length": 90731,
+        "chapters": 1969
+      },
+      {
+        "title": "断玉.txt",
+        "filename": "断玉.md",
+        "length": 306093,
+        "chapters": 0
+      },
+      {
+        "title": "完全帅哥手册.txt",
+        "filename": "完全帅哥手册.md",
+        "length": 65649,
+        "chapters": 1
+      },
+      {
+        "title": "青丝道_苏暮聊.txt",
+        "filename": "青丝道_苏暮聊.md",
+        "length": 90865,
+        "chapters": 18
+      },
+      {
+        "title": "倾四国记之无双女帝.txt",
+        "filename": "倾四国记之无双女帝.md",
+        "length": 559026,
+        "chapters": 1499
+      },
+      {
+        "title": "高调设计_派派小说.txt",
+        "filename": "高调设计_派派小说.md",
+        "length": 125622,
+        "chapters": 5
+      },
+      {
+        "title": "卜王之王_竹林探月.txt",
+        "filename": "卜王之王_竹林探月.md",
+        "length": 89581,
+        "chapters": 0
+      },
+      {
+        "title": "云秀昭华.txt",
+        "filename": "云秀昭华.md",
+        "length": 6727,
+        "chapters": 100
+      },
+      {
+        "title": "骚动之秋-刘玉民.epub",
+        "filename": "骚动之秋-刘玉民.md",
+        "length": 83006,
+        "chapters": 11
+      },
+      {
+        "title": "一张俊美的脸_约瑟芬·铁伊_TXT小说天堂.txt",
+        "filename": "一张俊美的脸_约瑟芬·铁伊_TXT小说天堂.md",
+        "length": 92913,
+        "chapters": 16
+      },
+      {
+        "title": "藏地密码8_何马_TXT小说天堂.txt",
+        "filename": "藏地密码8_何马_TXT小说天堂.md",
+        "length": 90048,
+        "chapters": 4
+      },
+      {
+        "title": "扭转乾坤之肥女翻身_派派小说.txt",
+        "filename": "扭转乾坤之肥女翻身_派派小说.md",
+        "length": 53991,
+        "chapters": 0
+      },
+      {
+        "title": "红衣侯_派派小说.txt",
+        "filename": "红衣侯_派派小说.md",
+        "length": 184857,
+        "chapters": 0
+      },
+      {
+        "title": "【推荐】当玄学大佬穿成入狱女配--孟青舟.txt",
+        "filename": "【推荐】当玄学大佬穿成入狱女配--孟青舟.md",
+        "length": 198113,
+        "chapters": 1
+      },
+      {
+        "title": "野鸽子.txt",
+        "filename": "野鸽子.md",
+        "length": 100874,
+        "chapters": 4981
+      },
+      {
+        "title": "燕尾蝶_岩井俊二.txt",
+        "filename": "燕尾蝶_岩井俊二.md",
+        "length": 68254,
+        "chapters": 0
+      },
+      {
+        "title": "藏地密码9_何马_TXT小说天堂.txt",
+        "filename": "藏地密码9_何马_TXT小说天堂.md",
+        "length": 38545,
+        "chapters": 4
+      },
+      {
+        "title": "华.txt",
+        "filename": "华.md",
+        "length": 79898,
+        "chapters": 0
+      },
+      {
+        "title": "异时空情恋之清水漪澜I.TXT",
+        "filename": "异时空情恋之清水漪澜I.md",
+        "length": 124235,
+        "chapters": 1221
+      },
+      {
+        "title": "九岁小妖后卷一.txt",
+        "filename": "九岁小妖后卷一.md",
+        "length": 93016,
+        "chapters": 0
+      },
+      {
+        "title": "别人采花吾采草（1女N男）.TXT",
+        "filename": "别人采花吾采草（1女N男）.md",
+        "length": 97500,
+        "chapters": 1
+      },
+      {
+        "title": "天劫_上官午夜.txt",
+        "filename": "天劫_上官午夜.md",
+        "length": 90682,
+        "chapters": 5
+      },
+      {
+        "title": "第十一根手指_秦明.txt",
+        "filename": "第十一根手指_秦明.md",
+        "length": 90677,
+        "chapters": 33
+      },
+      {
+        "title": "藏地密码3_何马_TXT小说天堂.txt",
+        "filename": "藏地密码3_何马_TXT小说天堂.md",
+        "length": 89310,
+        "chapters": 3
+      },
+      {
+        "title": "太阳石密码_信周.txt",
+        "filename": "太阳石密码_信周.md",
+        "length": 92878,
+        "chapters": 23
+      },
+      {
+        "title": "秦书_蜘蛛.txt",
+        "filename": "秦书_蜘蛛.md",
+        "length": 47586,
+        "chapters": 18
+      },
+      {
+        "title": "卜王之王2_竹林探月.txt",
+        "filename": "卜王之王2_竹林探月.md",
+        "length": 88748,
+        "chapters": 0
+      },
+      {
+        "title": "一张俊美的脸_约瑟芬·铁伊.txt",
+        "filename": "一张俊美的脸_约瑟芬·铁伊.md",
+        "length": 92855,
+        "chapters": 16
+      },
+      {
+        "title": "《早春不过一棵树》作者：喻言时.txt",
+        "filename": "《早春不过一棵树》作者：喻言时.md",
+        "length": 195929,
+        "chapters": 60
+      },
+      {
+        "title": "苗疆蛊事_南无袈裟理科佛.txt",
+        "filename": "苗疆蛊事_南无袈裟理科佛.md",
+        "length": 1253144,
+        "chapters": 386
+      },
+      {
+        "title": "装傻王妃惹人爱.txt",
+        "filename": "装傻王妃惹人爱.md",
+        "length": 292870,
+        "chapters": 9519
+      }
+    ],
+    "恐怖驚悚": [
+      {
+        "title": "人骨八鲜汤_鬼马星.txt",
+        "filename": "人骨八鲜汤_鬼马星.md",
+        "length": 42106,
+        "chapters": 15
+      },
+      {
+        "title": "死光_史蒂芬·金_TXT小说天堂.txt",
+        "filename": "死光_史蒂芬·金_TXT小说天堂.md",
+        "length": 133785,
+        "chapters": 8
+      },
+      {
+        "title": "天使与魔鬼(达芬奇密码前传)_丹·布朗.txt",
+        "filename": "天使与魔鬼(达芬奇密码前传)_丹·布朗.md",
+        "length": 90868,
+        "chapters": 21
+      },
+      {
+        "title": "暮眼蝶_鬼马星.txt",
+        "filename": "暮眼蝶_鬼马星.md",
+        "length": 92695,
+        "chapters": 40
+      },
+      {
+        "title": "唯一幸存者_史蒂芬·金.txt",
+        "filename": "唯一幸存者_史蒂芬·金.md",
+        "length": 72195,
+        "chapters": 17
+      },
+      {
+        "title": "死囚特工_湘西鬼王.txt",
+        "filename": "死囚特工_湘西鬼王.md",
+        "length": 88951,
+        "chapters": 42
+      },
+      {
+        "title": "人骨八鲜汤_鬼马星_TXT小说天堂.txt",
+        "filename": "人骨八鲜汤_鬼马星_TXT小说天堂.md",
+        "length": 82777,
+        "chapters": 30
+      },
+      {
+        "title": "八寒地狱（宜昌鬼事过阴篇）_蛇从革.txt",
+        "filename": "八寒地狱（宜昌鬼事过阴篇）_蛇从革.md",
+        "length": 90975,
+        "chapters": 18
+      },
+      {
+        "title": "4号解剖室_史蒂芬·金_TXT小说天堂.txt",
+        "filename": "4号解剖室_史蒂芬·金_TXT小说天堂.md",
+        "length": 19491,
+        "chapters": 34
+      },
+      {
+        "title": "猫的复生_鬼马星_TXT小说天堂.txt",
+        "filename": "猫的复生_鬼马星_TXT小说天堂.md",
+        "length": 91162,
+        "chapters": 17
+      },
+      {
+        "title": "神秘火焰_史蒂芬·金_TXT小说天堂.txt",
+        "filename": "神秘火焰_史蒂芬·金_TXT小说天堂.md",
+        "length": 257980,
+        "chapters": 20
+      },
+      {
+        "title": "吸血鬼莱斯特_安妮·赖斯.txt",
+        "filename": "吸血鬼莱斯特_安妮·赖斯.md",
+        "length": 87154,
+        "chapters": 20
+      },
+      {
+        "title": "最坏的死(南方吸血鬼8)_查琳·哈里斯.txt",
+        "filename": "最坏的死(南方吸血鬼8)_查琳·哈里斯.md",
+        "length": 61190,
+        "chapters": 15
+      },
+      {
+        "title": "玫瑰疯狂者_史蒂芬·金_TXT小说天堂.txt",
+        "filename": "玫瑰疯狂者_史蒂芬·金_TXT小说天堂.md",
+        "length": 91332,
+        "chapters": 60
+      },
+      {
+        "title": "生死河_蔡骏_TXT小说天堂.txt",
+        "filename": "生死河_蔡骏_TXT小说天堂.md",
+        "length": 69286,
+        "chapters": 33
+      },
+      {
+        "title": "八百万种死法_劳伦斯·布洛克.txt",
+        "filename": "八百万种死法_劳伦斯·布洛克.md",
+        "length": 93254,
+        "chapters": 45
+      },
+      {
+        "title": "末日逼近_史蒂芬·金.txt",
+        "filename": "末日逼近_史蒂芬·金.md",
+        "length": 668778,
+        "chapters": 86
+      },
+      {
+        "title": "鬼医弃妃翻身记.txt",
+        "filename": "鬼医弃妃翻身记.md",
+        "length": 45622,
+        "chapters": 3
+      },
+      {
+        "title": "都市恐怖病系列·狼嚎_九把刀.txt",
+        "filename": "都市恐怖病系列·狼嚎_九把刀.md",
+        "length": 85481,
+        "chapters": 56
+      },
+      {
+        "title": "鬼故事：黑段子_周德东.txt",
+        "filename": "鬼故事：黑段子_周德东.md",
+        "length": 52992,
+        "chapters": 2
+      },
+      {
+        "title": "鬼谷子的局_寒川子.txt",
+        "filename": "鬼谷子的局_寒川子.md",
+        "length": 213236,
+        "chapters": 8
+      },
+      {
+        "title": "吸血鬼的故事_理查德·伯顿爵士.txt",
+        "filename": "吸血鬼的故事_理查德·伯顿爵士.md",
+        "length": 89410,
+        "chapters": 0
+      },
+      {
+        "title": "黑暗中的另一半_史蒂芬·金_TXT小说天堂.txt",
+        "filename": "黑暗中的另一半_史蒂芬·金_TXT小说天堂.md",
+        "length": 244342,
+        "chapters": 29
+      },
+      {
+        "title": "宜昌鬼事_蛇从革.txt",
+        "filename": "宜昌鬼事_蛇从革.md",
+        "length": 96935,
+        "chapters": 14
+      },
+      {
+        "title": "暗穴_鬼古女.txt",
+        "filename": "暗穴_鬼古女.md",
+        "length": 69065,
+        "chapters": 53
+      },
+      {
+        "title": "绝对死亡(南方吸血鬼6)_查琳·哈里斯.txt",
+        "filename": "绝对死亡(南方吸血鬼6)_查琳·哈里斯.md",
+        "length": 67693,
+        "chapters": 1
+      },
+      {
+        "title": "死在家庭(南方吸血鬼10)_查琳·哈里斯.txt",
+        "filename": "死在家庭(南方吸血鬼10)_查琳·哈里斯.md",
+        "length": 190851,
+        "chapters": 0
+      },
+      {
+        "title": "都市恐怖病系列·影子.txt",
+        "filename": "都市恐怖病系列·影子.md",
+        "length": 30653,
+        "chapters": 5
+      },
+      {
+        "title": "风的预谋_鬼马星.txt",
+        "filename": "风的预谋_鬼马星.md",
+        "length": 92094,
+        "chapters": 21
+      },
+      {
+        "title": "编辑恐怖手记_戚小双.txt",
+        "filename": "编辑恐怖手记_戚小双.md",
+        "length": 92102,
+        "chapters": 0
+      },
+      {
+        "title": "胆小鬼07年1月号_周德东.txt",
+        "filename": "胆小鬼07年1月号_周德东.md",
+        "length": 50036,
+        "chapters": 0
+      },
+      {
+        "title": "死亡就像门钉(南方吸血鬼5)_查琳·哈里斯.txt",
+        "filename": "死亡就像门钉(南方吸血鬼5)_查琳·哈里斯.md",
+        "length": 96586,
+        "chapters": 18
+      },
+      {
+        "title": "玫瑰疯狂者_史蒂芬·金.txt",
+        "filename": "玫瑰疯狂者_史蒂芬·金.md",
+        "length": 90807,
+        "chapters": 42
+      },
+      {
+        "title": "黄泉眼之印_湘西鬼王.txt",
+        "filename": "黄泉眼之印_湘西鬼王.md",
+        "length": 405697,
+        "chapters": 56
+      },
+      {
+        "title": "葬礼之后的葬礼_鬼马星.txt",
+        "filename": "葬礼之后的葬礼_鬼马星.md",
+        "length": 308260,
+        "chapters": 0
+      },
+      {
+        "title": "一个神秘事件调查员的秘密笔记_湘西鬼王.txt",
+        "filename": "一个神秘事件调查员的秘密笔记_湘西鬼王.md",
+        "length": 94707,
+        "chapters": 0
+      },
+      {
+        "title": "吸血鬼全书_库仁.txt",
+        "filename": "吸血鬼全书_库仁.md",
+        "length": 41720,
+        "chapters": 8
+      },
+      {
+        "title": "都市恐怖病系列·语言_九把刀.txt",
+        "filename": "都市恐怖病系列·语言_九把刀.md",
+        "length": 91619,
+        "chapters": 70
+      },
+      {
+        "title": "三张牌_史蒂芬·金.txt",
+        "filename": "三张牌_史蒂芬·金.md",
+        "length": 94973,
+        "chapters": 179
+      },
+      {
+        "title": "死者的眼睛_余以健.txt",
+        "filename": "死者的眼睛_余以健.md",
+        "length": 87538,
+        "chapters": 7
+      },
+      {
+        "title": "恶月之子_史蒂芬·金.txt",
+        "filename": "恶月之子_史蒂芬·金.md",
+        "length": 89669,
+        "chapters": 5
+      },
+      {
+        "title": "迷宫蛛_鬼马星_TXT小说天堂.txt",
+        "filename": "迷宫蛛_鬼马星_TXT小说天堂.md",
+        "length": 116851,
+        "chapters": 0
+      },
+      {
+        "title": "天使与魔鬼.txt",
+        "filename": "天使与魔鬼.md",
+        "length": 91127,
+        "chapters": 68
+      },
+      {
+        "title": "葬礼之后的葬礼_鬼马星_TXT小说天堂.txt",
+        "filename": "葬礼之后的葬礼_鬼马星_TXT小说天堂.md",
+        "length": 308268,
+        "chapters": 0
+      },
+      {
+        "title": "龙开眼之陕西鬼洞_勿道.txt",
+        "filename": "龙开眼之陕西鬼洞_勿道.md",
+        "length": 87821,
+        "chapters": 9
+      },
+      {
+        "title": "恶月之子_史蒂芬·金_TXT小说天堂.txt",
+        "filename": "恶月之子_史蒂芬·金_TXT小说天堂.md",
+        "length": 89678,
+        "chapters": 8
+      },
+      {
+        "title": "生死河_蔡骏.txt",
+        "filename": "生死河_蔡骏.md",
+        "length": 88287,
+        "chapters": 38
+      },
+      {
+        "title": "恐怖谷_柯南·道尔.txt",
+        "filename": "恐怖谷_柯南·道尔.md",
+        "length": 45131,
+        "chapters": 3
+      },
+      {
+        "title": "死光_史蒂芬·金.txt",
+        "filename": "死光_史蒂芬·金.md",
+        "length": 123603,
+        "chapters": 62
+      },
+      {
+        "title": "风的预谋_鬼马星_TXT小说天堂.txt",
+        "filename": "风的预谋_鬼马星_TXT小说天堂.md",
+        "length": 124257,
+        "chapters": 0
+      },
+      {
+        "title": "鬼岛夺宝_信周.txt",
+        "filename": "鬼岛夺宝_信周.md",
+        "length": 212260,
+        "chapters": 0
+      },
+      {
+        "title": "鬼壶_鲁班尺.txt",
+        "filename": "鬼壶_鲁班尺.md",
+        "length": 487268,
+        "chapters": 139
+      },
+      {
+        "title": "猫的复生_鬼马星.txt",
+        "filename": "猫的复生_鬼马星.md",
+        "length": 91218,
+        "chapters": 20
+      },
+      {
+        "title": "恐怖的隧道_西村寿行.txt",
+        "filename": "恐怖的隧道_西村寿行.md",
+        "length": 86689,
+        "chapters": 12
+      },
+      {
+        "title": "濒死之眼_.txt",
+        "filename": "濒死之眼_.md",
+        "length": 91433,
+        "chapters": 0
+      },
+      {
+        "title": "亡者俱乐部(南方吸血鬼3)_查琳·哈里斯.txt",
+        "filename": "亡者俱乐部(南方吸血鬼3)_查琳·哈里斯.md",
+        "length": 89035,
+        "chapters": 19
+      },
+      {
+        "title": "宠物公墓_史蒂芬·金.txt",
+        "filename": "宠物公墓_史蒂芬·金.md",
+        "length": 235775,
+        "chapters": 0
+      },
+      {
+        "title": "末日逼近_史蒂芬·金_TXT小说天堂.txt",
+        "filename": "末日逼近_史蒂芬·金_TXT小说天堂.md",
+        "length": 669950,
+        "chapters": 79
+      },
+      {
+        "title": "死亡区域_史蒂芬·金_TXT小说天堂.txt",
+        "filename": "死亡区域_史蒂芬·金_TXT小说天堂.md",
+        "length": 88437,
+        "chapters": 9
+      },
+      {
+        "title": "短信：你身边的恐怖经历_朱口口.txt",
+        "filename": "短信：你身边的恐怖经历_朱口口.md",
+        "length": 90267,
+        "chapters": 21
+      },
+      {
+        "title": "死亡之邀_信周.txt",
+        "filename": "死亡之邀_信周.md",
+        "length": 50886,
+        "chapters": 8
+      },
+      {
+        "title": "天使与魔鬼(达芬奇密码前传)_丹·布朗_TXT小说天堂.txt",
+        "filename": "天使与魔鬼(达芬奇密码前传)_丹·布朗_TXT小说天堂.md",
+        "length": 89873,
+        "chapters": 21
+      },
+      {
+        "title": "死亡区域_史蒂芬·金.txt",
+        "filename": "死亡区域_史蒂芬·金.md",
+        "length": 88624,
+        "chapters": 0
+      },
+      {
+        "title": "都市恐怖病系列·功夫_九把刀.txt",
+        "filename": "都市恐怖病系列·功夫_九把刀.md",
+        "length": 93835,
+        "chapters": 8
+      },
+      {
+        "title": "神秘火焰_史蒂芬·金.txt",
+        "filename": "神秘火焰_史蒂芬·金.md",
+        "length": 91103,
+        "chapters": 10
+      },
+      {
+        "title": "厄兆_史蒂芬·金.txt",
+        "filename": "厄兆_史蒂芬·金.md",
+        "length": 68316,
+        "chapters": 6
+      },
+      {
+        "title": "死亡降临世界(南方吸血鬼4)_查琳·哈里斯.txt",
+        "filename": "死亡降临世界(南方吸血鬼4)_查琳·哈里斯.md",
+        "length": 58431,
+        "chapters": 8
+      },
+      {
+        "title": "共赴死亡(南方吸血鬼7)_查琳·哈里斯.txt",
+        "filename": "共赴死亡(南方吸血鬼7)_查琳·哈里斯.md",
+        "length": 107350,
+        "chapters": 21
+      },
+      {
+        "title": "吸血鬼日记3愤怒_L.J.史密斯.txt",
+        "filename": "吸血鬼日记3愤怒_L.J.史密斯.md",
+        "length": 106196,
+        "chapters": 11
+      },
+      {
+        "title": "黑暗中的另一半_史蒂芬·金.txt",
+        "filename": "黑暗中的另一半_史蒂芬·金.md",
+        "length": 244334,
+        "chapters": 29
+      },
+      {
+        "title": "暮眼蝶_鬼马星_TXT小说天堂.txt",
+        "filename": "暮眼蝶_鬼马星_TXT小说天堂.md",
+        "length": 91019,
+        "chapters": 25
+      },
+      {
+        "title": "厄兆_史蒂芬·金_TXT小说天堂.txt",
+        "filename": "厄兆_史蒂芬·金_TXT小说天堂.md",
+        "length": 219132,
+        "chapters": 0
+      },
+      {
+        "title": "鬼壶_鲁班尺_TXT小说天堂.txt",
+        "filename": "鬼壶_鲁班尺_TXT小说天堂.md",
+        "length": 484627,
+        "chapters": 152
+      },
+      {
+        "title": "宠物公墓_史蒂芬·金_TXT小说天堂.txt",
+        "filename": "宠物公墓_史蒂芬·金_TXT小说天堂.md",
+        "length": 89889,
+        "chapters": 0
+      },
+      {
+        "title": "离开死亡(南方吸血鬼9)_查琳·哈里斯.txt",
+        "filename": "离开死亡(南方吸血鬼9)_查琳·哈里斯.md",
+        "length": 75686,
+        "chapters": 18
+      },
+      {
+        "title": "吸血鬼日记2斗争_L.J.史密斯.txt",
+        "filename": "吸血鬼日记2斗争_L.J.史密斯.md",
+        "length": 105984,
+        "chapters": 18
+      },
+      {
+        "title": "恐怖谷_柯南·道尔_TXT小说天堂.txt",
+        "filename": "恐怖谷_柯南·道尔_TXT小说天堂.md",
+        "length": 87045,
+        "chapters": 3
+      },
+      {
+        "title": "迷宫蛛_鬼马星.txt",
+        "filename": "迷宫蛛_鬼马星.md",
+        "length": 92205,
+        "chapters": 0
+      },
+      {
+        "title": "吸血鬼日记1觉醒_L.J.史密斯.txt",
+        "filename": "吸血鬼日记1觉醒_L.J.史密斯.md",
+        "length": 94082,
+        "chapters": 14
+      },
+      {
+        "title": "吸血鬼日记4黑暗联盟_L.J.史密斯.txt",
+        "filename": "吸血鬼日记4黑暗联盟_L.J.史密斯.md",
+        "length": 105818,
+        "chapters": 16
+      },
+      {
+        "title": "唯一幸存者_史蒂芬·金_TXT小说天堂.txt",
+        "filename": "唯一幸存者_史蒂芬·金_TXT小说天堂.md",
+        "length": 93046,
+        "chapters": 0
+      },
+      {
+        "title": "达拉斯惊魂(南方吸血鬼2)_查琳·哈里斯.txt",
+        "filename": "达拉斯惊魂(南方吸血鬼2)_查琳·哈里斯.md",
+        "length": 96332,
+        "chapters": 5
+      }
+    ],
+    "古代言情": [
+      {
+        "title": "错嫁良缘之一代军师.txt",
+        "filename": "错嫁良缘之一代军师.md",
+        "length": 27468,
+        "chapters": 101
+      },
+      {
+        "title": "冥贼之南蛇王朝_戚小双.txt",
+        "filename": "冥贼之南蛇王朝_戚小双.md",
+        "length": 86278,
+        "chapters": 30
+      },
+      {
+        "title": "军师王妃.txt",
+        "filename": "军师王妃.md",
+        "length": 174097,
+        "chapters": 0
+      },
+      {
+        "title": "特工皇妃：皇上我要废了你正文+番外.txt",
+        "filename": "特工皇妃：皇上我要废了你正文+番外.md",
+        "length": 300889,
+        "chapters": 109
+      },
+      {
+        "title": "美男随我入宫墙.txt",
+        "filename": "美男随我入宫墙.md",
+        "length": 55070,
+        "chapters": 0
+      },
+      {
+        "title": "冒牌女皇.txt",
+        "filename": "冒牌女皇.md",
+        "length": 131095,
+        "chapters": 0
+      },
+      {
+        "title": "女皇子_派派小说.txt",
+        "filename": "女皇子_派派小说.md",
+        "length": 55225,
+        "chapters": 0
+      },
+      {
+        "title": "《宫闱权谋：倾世皇妃》BY慕容湮儿（.txt",
+        "filename": "《宫闱权谋：倾世皇妃》BY慕容湮儿（.md",
+        "length": 99071,
+        "chapters": 2289
+      },
+      {
+        "title": "妖艳皇后.txt",
+        "filename": "妖艳皇后.md",
+        "length": 75871,
+        "chapters": 0
+      },
+      {
+        "title": "女皇艳夫.txt",
+        "filename": "女皇艳夫.md",
+        "length": 106571,
+        "chapters": 1
+      },
+      {
+        "title": "女帝的后宫.txt",
+        "filename": "女帝的后宫.md",
+        "length": 50378,
+        "chapters": 0
+      },
+      {
+        "title": "傲气皇妃.txt",
+        "filename": "傲气皇妃.md",
+        "length": 101442,
+        "chapters": 4759
+      },
+      {
+        "title": "云朝.txt",
+        "filename": "云朝.md",
+        "length": 129233,
+        "chapters": 7
+      },
+      {
+        "title": "《扶摇皇后》.txt",
+        "filename": "《扶摇皇后》.md",
+        "length": 250827,
+        "chapters": 0
+      },
+      {
+        "title": "特工皇妃之皇上我要废你.txt",
+        "filename": "特工皇妃之皇上我要废你.md",
+        "length": 349532,
+        "chapters": 13829
+      },
+      {
+        "title": "花魁皇后_派派小说.txt",
+        "filename": "花魁皇后_派派小说.md",
+        "length": 103574,
+        "chapters": 0
+      },
+      {
+        "title": "叛逆皇妃：酷王爷，接招！.txt",
+        "filename": "叛逆皇妃：酷王爷，接招！.md",
+        "length": 262661,
+        "chapters": 63
+      },
+      {
+        "title": "四皇一后.txt",
+        "filename": "四皇一后.md",
+        "length": 113555,
+        "chapters": 1
+      },
+      {
+        "title": "[完结]《军师王妃》.txt",
+        "filename": "[完结]《军师王妃》.md",
+        "length": 96324,
+        "chapters": 0
+      },
+      {
+        "title": "十二宫杀手_罗伯特·格雷史密斯.txt",
+        "filename": "十二宫杀手_罗伯特·格雷史密斯.md",
+        "length": 109039,
+        "chapters": 6
+      },
+      {
+        "title": "皇朝风云.txt",
+        "filename": "皇朝风云.md",
+        "length": 119240,
+        "chapters": 0
+      },
+      {
+        "title": "《女皇陛下的笑话婚姻》.txt",
+        "filename": "《女皇陛下的笑话婚姻》.md",
+        "length": 91126,
+        "chapters": 1
+      },
+      {
+        "title": "冷宫宠后之美人暗妖娆.txt",
+        "filename": "冷宫宠后之美人暗妖娆.md",
+        "length": 162577,
+        "chapters": 33
+      },
+      {
+        "title": "神界公主的美男后宫.txt",
+        "filename": "神界公主的美男后宫.md",
+        "length": 68131,
+        "chapters": 0
+      },
+      {
+        "title": "《11处特工皇妃》潇湘冬儿.txt",
+        "filename": "《11处特工皇妃》潇湘冬儿.md",
+        "length": 16398,
+        "chapters": 100
+      }
+    ]
+  }
+}
