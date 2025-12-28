@@ -2,7 +2,7 @@
 
 ## 創建 GitHub 倉庫
 
-1. 訪問 GitHub: https://github.com/new
+1. 訪問 GitHub: <https://github.com/new>
 2. 倉庫名稱: `MD`
 3. 描述: `個人知識庫 - 1016本書籍 + 結構化數據`
 4. 設為 Private (推薦)
@@ -25,7 +25,7 @@ git push -u origin main
 
 如果需要認證:
 
-1. 生成 Token: https://github.com/settings/tokens
+1. 生成 Token: <https://github.com/settings/tokens>
 2. 選擇 `repo` 權限
 3. 使用 Token 作為密碼
 
