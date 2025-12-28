@@ -80,10 +80,21 @@ app.get('/api/book/content', (req, res) => {
     return res.status(400).json({ error: '缺少參數' });
   }
   
-  const bookPath = path.join(__dirname, 'books', category, filename);
+  // 確保文件名有 .md 擴展名
+  let actualFilename = filename;
+  if (!filename.endsWith('.md')) {
+    // 如果是 .txt 結尾,替換為 .txt.md
+    if (filename.endsWith('.txt')) {
+      actualFilename = filename + '.md';
+    } else {
+      actualFilename = filename + '.md';
+    }
+  }
+  
+  const bookPath = path.join(__dirname, 'books', category, actualFilename);
   
   if (!fs.existsSync(bookPath)) {
-    return res.status(404).json({ error: '書籍不存在' });
+    return res.status(404).json({ error: `書籍不存在: ${actualFilename}` });
   }
   
   try {
@@ -93,10 +104,10 @@ app.get('/api/book/content', (req, res) => {
     res.json({
       content: html,
       raw: content,
-      path: `${category}/${filename}`
+      path: `${category}/${actualFilename}`
     });
   } catch (error) {
-    res.status(500).json({ error: '讀取失敗' });
+    res.status(500).json({ error: `讀取失敗: ${error.message}` });
   }
 });
 
