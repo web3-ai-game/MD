@@ -171,13 +171,13 @@ tar -czf md-backup-$(date +%Y%m%d).tar.gz \
 
 ### 本地訪問
 
-```
+```text
 http://localhost:3000
 ```
 
 ### 遠程訪問
 
-```
+```text
 http://YOUR_SERVER_IP:3000
 ```
 

@@ -70,9 +70,9 @@
 - **前端**: 原生 HTML/CSS/JS
 - **渲染**: Marked.js
 
-### 4. 項目結構
+### 項目結構
 
-```
+```markdown
 personal-knowledge-base/
 ├── README.md              # 項目說明
 ├── START.md               # 快速啟動指南
@@ -140,7 +140,7 @@ npm start
 ## 📝 文檔清單
 
 | 文檔 | 用途 |
-|------|------|
+| ------ | ------ |
 | README.md | 項目完整說明 |
 | START.md | 快速啟動指南 |
 | CATALOG.md | 1016本書籍目錄 |
@@ -204,7 +204,7 @@ if content_hash in seen: reject
 
 ### 閱讀器架構
 
-```
+```text
 Frontend (HTML/CSS/JS)
     ↓
 Express API Server
